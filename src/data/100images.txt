@@ -1,0 +1,3971 @@
+1
+https://cs.stanford.edu/people/rak248/VG_100K_2/1.jpg
+40
+119 338 274 192 shade
+77 328 714 262 street
+243 489 52 26 sneakers
+479 315 74 98 car
+514 366 23 15 headlight
+318 319 28 34 bike
+622 234 87 327 tree trunk
+721 339 67 170 back
+421 91 79 339 clock
+118 13 88 182 sign
+1 2 218 536 building
+241 289 59 101 shirt
+708 342 91 174 car
+271 268 20 12 glasses
+574 327 32 143 parking meter
+391 481 46 34 shoes
+245 384 38 118 pants
+238 249 60 262 man
+356 296 89 97 jacket
+382 369 54 128 pants
+372 264 75 251 man
+77 331 722 266 sidewalk
+334 319 29 35 bike
+521 271 265 185 work truck
+358 283 440 233 street
+369 264 82 250 guy
+399 288 11 9 chin
+529 298 233 134 van
+0 1 134 533 wall
+321 319 40 35 bikes
+249 0 176 360 tree
+368 283 32 43 arm
+384 306 37 66 shirt
+537 63 41 430 lamp post
+190 0 606 557 trees
+343 318 50 189 sidewalk
+362 264 97 248 man
+230 251 72 264 man
+435 295 340 218 road
+602 4 173 148 windows
+2
+https://cs.stanford.edu/people/rak248/VG_100K/2.jpg
+27
+463 141 43 103 walk sign
+359 362 72 81 backpack
+0 146 73 223 tree
+58 155 61 201 tree
+110 195 83 163 tree
+0 492 366 107 crosswalk
+645 60 99 179 window
+742 71 57 159 window
+644 259 105 114 window
+746 259 52 108 window
+628 64 26 179 window
+346 327 86 76 car
+288 212 28 131 street light
+339 533 132 37 sneakers
+415 403 33 69 bike
+471 193 31 15 "walk"
+384 343 415 247 sidewalk
+547 4 251 384 building
+230 287 22 67 sign
+239 347 136 126 car
+324 320 142 255 man
+3 321 372 279 road
+9 147 198 211 trees
+377 37 122 429 street light
+165 13 282 298 building
+405 34 78 438 pole
+227 284 32 26 lights
+3
+https://cs.stanford.edu/people/rak248/VG_100K/3.jpg
+52
+456 266 98 79 office phone
+83 202 17 24 outlet
+42 207 22 29 outlet
+212 340 88 139 cpu
+129 233 510 244 desktop
+2 269 139 201 filing cabinet
+48 423 94 42 drawer
+574 270 65 134 computer case
+465 268 38 61 wireless phone
+465 277 73 66 office phone base
+42 190 89 48 multiple outlet
+43 208 26 33 plug
+66 207 15 21 plug
+85 200 16 25 plug
+106 200 17 23 plug
+585 98 55 109 hair
+593 166 34 17 chain
+137 408 52 58 cable
+110 340 390 139 floor
+150 387 84 40 cable
+456 266 98 79 telephone
+168 273 175 48 grey keys
+159 119 149 155 monitor
+212 340 88 139 computer tower
+129 233 510 244 table
+2 269 139 201 cabinet
+2 321 128 123 drawer
+574 270 65 134 bag
+346 296 29 28 mouse
+42 190 89 48 pluged
+544 89 94 149 girl
+417 63 82 50 monitor
+3 6 258 265 wall
+585 98 55 109 black hair
+405 323 53 16 pen
+130 235 506 241 desk
+168 273 175 48 keyboard
+304 30 217 97 wall
+538 174 101 68 white top
+570 333 69 81 strap
+243 81 300 204 dividing screen
+125 71 513 402 cubicles
+210 2 61 44 picture
+413 56 101 57 computer
+421 105 99 95 picture
+59 211 81 89 cables
+209 3 341 45 photos
+3 2 552 65 wall
+18 353 81 44 handle
+125 376 141 95 floor
+585 169 32 15 necklace
+532 156 52 52 desk
+4
+https://cs.stanford.edu/people/rak248/VG_100K/4.jpg
+24
+407 284 72 27 padding
+298 225 41 48 color
+485 4 154 303 window
+367 0 120 327 door
+360 160 279 187 patio
+575 38 22 38 color
+227 272 23 20 cloths
+408 285 232 64 seats
+423 288 26 17 colour
+360 1 280 300 curtains
+387 214 92 157 chair
+2 321 629 157 carpet
+1 290 631 188 floor
+0 337 67 141 desk
+105 210 260 172 couch
+211 251 52 57 teddy bear
+413 242 227 51 table top
+183 222 111 86 pillow
+103 274 265 107 frame
+412 238 224 200 table
+362 0 149 282 drape
+0 230 92 129 picture
+216 62 48 150 lamp
+457 165 57 25 box
+5
+https://cs.stanford.edu/people/rak248/VG_100K/5.jpg
+34
+301 448 49 88 cables
+147 212 567 370 area
+347 453 63 127 cpu
+37 253 43 77 windows
+35 148 38 73 windows
+607 259 190 185 colour
+170 453 19 40 color
+141 351 408 242 chairs
+72 3 119 39 light
+429 88 370 142 books
+144 358 174 240 chair
+194 278 101 101 computer monitor
+347 453 63 127 computer
+3 8 40 529 door
+2 490 349 108 floor
+389 9 404 519 wall
+186 20 180 57 air conditioner
+297 325 93 50 printer
+425 132 372 102 shelves
+49 322 88 103 railing
+42 41 91 387 window
+552 430 162 138 cork-board
+120 357 317 107 desk
+311 378 92 35 fax machine
+240 401 116 26 keyboard
+377 348 166 251 chair
+44 148 87 90 window
+625 468 52 68 paper
+145 3 245 528 wall
+0 2 795 597 room
+52 328 81 91 balcony
+380 430 148 167 clothes
+421 529 113 69 heater
+428 82 368 152 shelf
+6
+https://cs.stanford.edu/people/rak248/VG_100K/6.jpg
+30
+487 75 104 90 drinking bottle
+476 77 122 307 granite
+685 331 113 265 lid
+747 485 29 26 handle
+255 76 57 51 liquid
+0 2 300 521 bar stool
+253 75 60 47 apple
+245 14 68 114 counter
+476 77 122 307 bottle
+111 137 56 73 fork
+38 102 238 117 plate
+0 2 300 521 chair
+599 73 187 116 container
+192 0 59 98 glass
+394 2 212 126 bowl
+629 101 144 158 bag
+2 11 797 520 counter
+676 22 122 76 pan
+349 48 133 134 bag
+353 102 117 78 food
+339 233 126 119 apple
+208 217 55 59 packet
+275 0 54 78 glass
+600 56 147 46 cover
+593 200 79 33 utensil
+7 268 55 130 leg
+138 311 83 203 leg
+85 175 20 14 crumb
+209 154 8 11 crumb
+484 256 108 112 logo
+7
+https://cs.stanford.edu/people/rak248/VG_100K/7.jpg
+45
+721 527 50 56 book
+6 316 144 268 lady
+5 320 28 49 hair
+97 549 73 44 pants
+69 357 99 45 papers
+369 549 72 47 cpu
+184 526 257 73 floor
+277 15 180 249 wall
+525 393 85 65 telephone
+583 515 213 77 desk
+193 354 36 58 juice bottle
+266 361 34 26 sticky note
+222 255 170 130 monitor
+3 34 278 207 white board
+20 65 99 164 writing
+263 424 66 32 headphones
+6 309 256 287 woman
+119 436 35 12 pen
+92 421 90 38 book
+409 428 39 17 mouse
+243 392 143 37 keyboard
+56 398 559 110 desk
+1 4 281 373 wall
+190 534 10 17 bracelet
+174 529 34 29 wrist
+231 413 150 13 wrist pad
+379 428 77 25 mousepad
+179 408 49 24 cd player
+459 326 46 77 cereal
+15 384 13 22 earring
+479 361 28 70 water bottle
+385 477 36 88 cables
+456 388 26 38 mug
+589 481 178 83 laptop
+586 481 184 73 lid
+202 356 15 10 lid
+2 407 196 183 sweater
+489 3 309 401 window
+555 450 46 45 tape dispenser
+87 530 225 69 blue jeans
+1 550 300 49 chair
+484 380 21 22 label
+484 431 49 39 calculator
+419 418 170 98 book
+389 370 43 34 three hole punch
+8
+https://cs.stanford.edu/people/rak248/VG_100K/8.jpg
+41
+377 513 40 48 color
+704 288 81 27 bag
+142 167 26 52 cup
+719 472 44 58 mug
+602 536 196 63 front
+297 270 126 123 monitor
+222 384 117 96 sleeves
+369 495 148 104 drawers
+666 550 74 42 cd
+580 402 219 191 desk
+446 398 51 75 coffee mug
+334 400 48 47 hand
+282 383 155 64 keyboard
+232 322 28 26 glasses
+115 375 230 225 shirt
+171 254 40 31 dish
+126 271 113 131 cpu
+699 135 97 73 picture
+596 0 203 434 wall
+117 286 266 312 man
+520 444 22 35 stapler
+27 329 544 267 desk
+672 285 127 46 papers
+0 215 207 36 shelf
+446 398 51 75 cup
+364 495 148 89 drawer
+588 300 193 182 bulletin board
+585 315 177 129 papers
+666 290 66 15 files
+249 347 51 63 computer speaker
+229 360 29 23 chin
+459 315 91 142 folder
+474 337 60 60 papers
+2 32 160 93 books
+421 426 35 29 mouse
+86 154 58 64 book
+594 554 189 45 drawer
+208 510 158 89 pants
+10 471 152 127 chair
+434 391 67 85 coffee mug
+3 2 227 261 shelves
+9
+https://cs.stanford.edu/people/rak248/VG_100K/9.jpg
+42
+55 415 89 39 mouse pad
+5 387 162 92 desk
+570 93 69 151 outside
+346 84 91 143 blinds
+354 83 92 157 window
+69 339 100 85 posters
+261 260 178 93 desk
+495 223 29 58 chair
+4 1 635 477 room
+209 7 331 88 lights
+153 284 101 146 chair
+126 281 24 39 bottle
+71 280 169 65 desk
+351 81 286 173 windows
+543 243 54 50 computer
+26 323 156 148 wall
+286 210 65 59 monitor
+425 297 36 52 bin
+70 3 569 91 ceiling
+22 135 66 104 corkboard
+168 138 97 225 shelves
+197 216 59 43 books
+542 277 50 18 keyboard
+503 241 135 60 desk
+410 382 80 43 book
+212 26 87 33 lights
+415 9 99 40 lights
+322 69 61 25 lights
+472 61 62 27 lights
+96 221 106 76 monitor
+3 0 351 368 wall
+6 286 634 194 floor
+388 367 250 112 desk
+236 120 27 38 baby
+253 277 56 74 tower
+251 247 184 42 desk
+298 286 128 59 cables
+562 127 76 127 building
+564 73 76 182 windows
+427 372 68 40 papers
+231 408 14 16 wheels
+151 131 87 17 tube
+10
+https://cs.stanford.edu/people/rak248/VG_100K/10.jpg
+41
+231 543 23 28 charger
+142 142 105 145 board
+558 352 116 140 back
+460 357 96 41 papers
+456 401 95 51 papers
+460 387 103 16 shelf
+504 450 45 32 papers
+486 439 58 18 shelf
+510 471 58 37 shelf
+3 2 796 530 wall
+142 142 105 145 picture frame
+161 562 77 18 cable
+576 270 128 149 man
+532 354 146 216 coat
+558 352 157 203 chair
+423 151 174 358 bookshelf
+459 327 127 18 shelf
+57 441 36 41 cup
+0 381 314 162 papers
+354 435 97 126 cpu
+77 472 721 126 floor
+422 436 89 122 cpu
+22 488 99 48 headphones
+0 368 472 231 desk
+462 273 127 67 books
+579 122 25 62 ostirch
+581 125 24 64 ostrich
+267 372 21 41 bottle
+280 277 147 140 computer
+609 315 190 101 desk
+657 293 80 63 computer screen
+649 278 105 119 computer
+586 306 115 105 shirt
+647 282 107 97 monitor
+305 386 130 35 keyboard
+217 548 65 36 outlet
+2 395 200 204 table
+278 280 129 113 monitor
+314 295 86 73 screen
+316 308 61 32 panes
+158 157 81 117 corkboard
+11
+https://cs.stanford.edu/people/rak248/VG_100K/11.jpg
+39
+26 14 694 541 it
+631 5 159 128 building
+485 3 314 183 window
+6 385 48 127 cpu
+602 158 197 129 table
+772 120 27 86 pot
+761 113 38 32 flowers
+350 112 171 41 clothing
+246 488 285 104 legs
+399 250 147 191 cabinet
+26 20 741 552 scene
+244 186 283 390 chair
+16 16 232 211 computer
+10 285 164 133 box
+485 3 314 183 sun
+6 173 38 45 mug
+6 8 44 170 wall
+236 181 39 24 mouse
+621 153 67 46 bowl
+772 120 27 86 plant
+761 113 38 32 plant
+230 181 74 26 mouse pad
+291 145 30 39 cup
+17 154 588 109 desk
+45 53 137 83 monitor
+159 341 440 151 floor
+232 174 37 35 mouse
+609 177 64 31 plate
+350 157 89 54 bag
+612 182 188 90 desk
+8 375 68 158 computer tower
+163 452 22 48 lint
+24 380 99 78 bag
+150 200 39 14 keys
+314 233 97 48 arm rest
+479 155 121 77 paperwork
+528 12 221 130 blinds
+87 177 148 50 keyboard
+744 107 49 43 plant
+12
+https://cs.stanford.edu/people/rak248/VG_100K/12.jpg
+23
+220 538 316 22 surge protector
+709 149 90 63 inbox tray
+706 190 93 53 inbox tray
+705 216 94 55 inbox tray
+68 266 60 76 computer speaker
+381 289 47 47 sticky note
+728 174 71 40 paper
+737 215 62 25 paper
+198 538 191 53 armrest
+84 435 84 71 spots
+619 503 180 96 cpu
+672 346 119 68 telephone
+519 422 81 36 pen
+52 426 121 91 composition book
+201 416 269 61 computer keyboard
+1 335 42 121 water bottle
+134 124 238 183 computer monitor
+2 481 389 119 office chair
+2 4 797 340 wall
+501 433 54 50 mouse
+645 302 52 66 cup
+8 321 791 209 desk
+607 377 192 94 computer keyboard
+13
+https://cs.stanford.edu/people/rak248/VG_100K/13.jpg
+30
+1 205 117 94 desk
+7 271 87 67 pens
+451 228 131 96 telephone
+260 323 36 54 baby
+235 283 76 104 picture
+1 0 798 477 wall
+12 227 48 30 scissors
+68 414 243 135 book
+238 304 211 169 keyboard
+561 254 234 342 orange cloth
+602 284 197 313 chair
+13 325 64 71 cup
+93 53 269 316 monitor
+425 309 58 39 mouse
+389 298 134 74 pad
+294 391 196 200 computer
+681 0 118 169 calendar
+362 205 62 97 photo
+3 260 589 337 desk
+237 526 402 73 floor
+105 333 162 96 rolodex
+2 207 90 64 tray
+482 307 54 287 cord
+42 269 43 69 pen
+34 306 14 36 pen
+291 451 63 40 post it note
+372 218 45 78 picture
+360 207 65 99 frame
+1 521 214 78 paper
+6 10 769 586 photo
+14
+https://cs.stanford.edu/people/rak248/VG_100K/14.jpg
+28
+101 105 250 210 people
+130 57 528 489 computer
+5 6 794 591 picture
+352 56 304 288 computer monitor
+8 288 790 310 desk
+630 170 165 269 lamp
+643 203 101 84 shade
+105 206 97 172 soda cup
+35 83 331 247 jigsaw puzzle
+140 380 392 176 computer keyboard
+141 461 393 94 wrist rest
+316 480 60 95 bottle
+402 333 65 58 sticky note
+7 407 96 60 cd
+0 393 143 95 cd case
+626 386 90 54 pen
+525 373 47 54 computer mouse
+487 369 187 123 mouse pad
+571 415 101 64 wrist rest
+700 186 99 252 lamp stand
+215 314 164 94 envelope
+2 507 193 92 book
+482 344 22 50 mark pen
+329 474 31 43 cap
+680 422 118 80 lid
+647 1 36 85 dart
+0 1 754 366 wall
+0 379 141 128 holder
+15
+https://cs.stanford.edu/people/rak248/VG_100K/15.jpg
+39
+131 59 393 286 monitor is off.
+634 454 91 114 mouse is white.
+3 346 127 224 paper on desk.
+551 450 216 149 pad is black.
+575 284 221 168 papers are here.
+531 365 237 101 desk is grey.
+93 507 528 92 see grey desk.
+127 382 408 144 keyboard has white.
+94 52 49 50 thing on computer.
+61 336 62 90 powder on desk
+2 407 150 189 paper has corner.
+5 422 90 156 paper shows puzzle.
+5 484 78 114 paper has puzzle.
+765 458 35 56 ketchup seen here.
+320 354 34 36 button is round.
+312 360 23 24 round button here.
+591 35 185 222 is wall white?
+131 59 393 286 monitor
+634 454 91 114 mouse
+3 346 127 224 gazette
+551 450 216 149 pad
+575 284 221 168 papers
+127 382 408 144 keyboard
+94 52 49 50 thing
+1 393 60 57 box
+127 440 70 69 grey
+2 168 51 150 box
+1 494 49 66 key
+4 294 796 303 desk
+1 0 796 303 wall
+81 44 481 350 monitor
+313 356 30 24 label
+93 52 40 40 sticker
+1 3 797 595 room
+82 42 479 489 computer
+112 54 18 32 red
+3 291 117 92 thing
+16 282 743 266 desk
+15 279 740 315 desk
+16
+https://cs.stanford.edu/people/rak248/VG_100K/16.jpg
+66
+298 198 249 183 see four men.
+96 224 138 132 grey car, parked.
+309 7 114 199 green trees seen.
+0 86 120 140 trees on roadside.
+416 192 33 43 man has glasses.
+416 199 22 20 see man's glasses.
+306 285 35 86 boy has pants.
+466 290 51 78 man has jeans.
+195 27 46 154 sign on pole.
+187 54 91 170 see pole's sign.
+18 360 119 91 crack is on road.
+16 4 556 202 picture is outside.
+102 454 75 30 arrow on sidewalk.
+108 444 52 39 sidewalk has arrow.
+123 207 22 27 man has bag.
+125 208 12 15 see plastic bag.
+297 238 133 80 boys have jackets.
+166 3 170 393 sign above curb.
+714 8 54 198 window has bars.
+167 1 114 64 sign for parking.
+108 223 167 95 curb  by car.
+196 195 177 44 cones by road.
+196 199 40 44 see safety cones.
+200 156 77 71 see rig in distance.
+298 198 249 183 guys
+96 224 138 132 car
+19 201 127 281 street
+190 48 59 92 sign
+361 227 64 143 boy
+82 9 153 197 building
+452 165 59 213 man
+226 214 57 215 parking meter
+272 222 363 366 sidewalk
+398 215 59 72 jacket
+94 22 120 41 window
+3 16 776 480 scene
+297 172 268 218 people
+344 242 92 88 jacket
+409 190 31 17 hair
+77 185 213 136 cars
+193 116 33 415 pole
+497 301 59 74 bag
+81 194 161 167 car
+7 8 68 174 skyscraper
+15 230 125 64 line
+144 210 26 20 traffic cone
+301 4 73 79 crane
+49 68 58 45 light
+315 197 67 32 fence
+49 118 63 108 tree
+129 209 52 22 cone
+4 226 256 370 street
+295 287 46 81 pants
+281 212 77 167 boy
+457 290 49 82 jeans
+446 203 74 181 man
+3 381 113 113 crack
+4 226 219 369 road
+288 213 139 161 boys
+285 235 145 81 jackets
+150 372 64 122 curb
+283 210 66 168 male
+368 235 58 144 male
+408 193 43 94 male
+452 206 68 167 male
+11 494 778 84 street
+17
+https://cs.stanford.edu/people/rak248/VG_100K/17.jpg
+71
+39 248 453 108 screens are off.
+37 82 762 185 paintings on wall.
+146 448 180 145 floor is wood.
+110 504 599 132 see wood floors.
+195 331 174 235 chair is black.
+149 327 364 76 desk has curves.
+3 443 75 135 chair is empty.
+313 243 176 111 screen is black.
+318 244 107 73 monitor off.
+226 163 59 78 sign is blue.
+238 165 35 61 wall sign is blue.
+753 82 47 106 painting on wall.
+285 348 104 32 keys on board white.
+201 332 133 158 chair rolls.
+2 435 90 192 see tan chair.
+48 91 113 194 poster with letters.
+505 163 246 402 desk has tv.
+332 99 466 442 white desk has tv.
+404 243 63 97 laptop is silver.
+410 259 75 86 laptop not green.
+7 331 191 224 see cupboard.
+656 272 88 195 cupboard not white.
+192 231 40 109 see lamp.
+293 230 27 32 star is black.
+291 226 36 31 black star here.
+295 230 17 26 star noted, black.
+289 234 28 23 star shows black.
+195 331 174 235 chair
+3 443 75 135 chair
+318 244 107 73 monitor
+238 165 35 61 picture
+2 435 90 192 chair
+48 91 113 194 poster
+404 243 63 97 laptop
+192 231 40 109 lamp
+295 230 17 26 star
+5 419 792 216 tile
+10 10 789 465 wall
+5 289 130 111 monitor
+6 6 778 606 picture
+348 94 98 162 poster
+200 331 157 232 chair
+197 247 29 90 lampstand
+134 321 379 125 desk
+388 252 83 79 laptop
+6 329 367 307 chairs
+292 347 92 22 keyboard
+63 102 62 128 alphabet
+348 102 88 21 bending rules
+95 372 70 137 cabinet
+637 275 93 258 cabinet
+670 287 36 229 door
+254 312 38 24 phone
+283 390 58 42 vent
+287 237 23 14 star
+204 496 154 67 wheels
+401 319 67 25 stand
+380 361 16 18 mouse
+339 264 62 49 lights
+490 89 277 353 thing
+210 157 77 82 painting
+172 113 117 133 wall
+180 306 181 273 computer chair
+130 298 385 106 desk
+0 443 103 178 chair
+275 333 129 56 keyboard
+138 290 388 192 desk
+381 248 97 84 laptop
+294 241 128 85 computer
+233 174 32 24 heart
+231 167 45 71 poster
+18
+https://cs.stanford.edu/people/rak248/VG_100K/18.jpg
+24
+116 366 39 74 bottle
+124 424 25 15 soda
+5 3 777 596 there
+37 467 44 25 mouse
+165 348 44 29 tissue
+9 361 72 87 bag
+472 143 45 39 helmet
+690 268 48 62 hair
+329 250 136 110 computer
+310 352 26 43 can
+3 328 562 142 desk
+753 260 46 140 monitor
+354 366 122 26 keyboard
+451 108 185 271 shelf
+5 7 302 337 window
+87 403 33 47 mug
+641 267 146 296 man
+395 421 116 115 cpu
+3 328 562 142 table
+180 481 477 118 floor
+587 106 34 83 books
+622 350 176 172 shirt
+320 7 421 326 wall
+594 392 169 189 chair
+19
+https://cs.stanford.edu/people/rak248/VG_100K/19.jpg
+52
+289 468 85 31 mousepad
+133 304 173 141 computer monitor
+402 233 13 28 tape
+449 234 13 37 tape
+311 439 137 39 connection wire
+275 401 66 69 connection wire
+192 231 21 39 electrical outlet
+169 262 128 52 computer screen
+256 232 393 31 tube
+250 239 410 24 wires
+718 447 28 27 computer mouse
+706 448 91 37 mousepad
+3 335 151 151 computer printer
+6 17 782 571 office
+134 299 169 192 desktop computer
+500 252 180 206 desktop computer
+167 258 249 145 desktop computer
+445 244 131 159 desktop computer
+662 330 98 81 printer cable
+516 447 188 40 keyboard
+664 398 89 67 cable
+519 244 143 143 computer monitor
+3 335 151 151 printer
+691 279 98 113 printer
+498 364 170 87 computer
+301 332 108 74 computer
+133 304 173 141 monitor
+306 232 22 50 tape
+342 233 17 35 tape
+500 229 15 26 tape
+320 467 37 24 mouse
+120 454 175 33 keyboard
+256 232 393 31 pipe
+718 447 28 27 mouse
+64 2 725 378 wall
+6 17 782 571 scene
+500 252 180 206 monitor
+33 523 260 75 chair
+1 338 798 191 desk
+519 244 143 143 monitor
+395 391 403 134 desk
+670 383 98 68 cords
+447 236 351 269 electonics
+427 339 40 63 speaker
+59 145 18 28 fire alarm
+4 5 83 313 hallway
+251 226 406 25 cords
+710 445 41 33 mouse
+288 514 414 85 cables
+115 224 578 262 computers
+6 2 789 50 roof
+1 408 797 103 wall
+20
+https://cs.stanford.edu/people/rak248/VG_100K/20.jpg
+38
+606 110 192 15 self
+11 7 119 68 wall
+541 6 76 336 wall
+629 270 159 97 shelf
+217 239 156 163 computer
+80 357 433 66 desk
+118 237 167 273 one person
+410 324 33 70 bottle
+12 6 778 584 picture
+616 24 174 70 books
+659 163 140 137 books
+73 231 231 340 man
+339 5 181 309 window
+142 231 79 78 hair
+537 350 71 55 telephone
+88 332 196 144 shirt
+619 25 21 102 book
+623 110 169 44 bookshelf
+368 385 22 18 mouse
+61 385 262 214 chair
+64 382 185 187 back
+618 213 32 42 mug
+658 237 34 43 tape dispenser
+75 361 25 37 can
+279 433 50 29 keyboard
+262 378 95 30 keyboard
+596 419 128 180 boxes
+393 421 114 177 file cabinet
+347 449 39 25 mouse
+330 448 84 40 mouse pad
+275 386 235 37 table
+701 543 23 18 plug
+717 532 13 47 socket
+346 351 64 32 books
+157 1 362 224 time
+14 351 59 38 case
+708 294 86 98 self
+345 0 170 314 shutter
+21
+https://cs.stanford.edu/people/rak248/VG_100K/21.jpg
+34
+87 6 90 147 adult
+69 181 51 34 picture
+146 191 18 16 wristwatch
+168 130 24 82 arm
+97 68 86 44 sweater
+109 63 48 17 neck
+53 19 144 154 people
+83 49 102 61 thing
+136 67 54 41 shoulder
+77 51 112 83 shirt
+58 124 73 58 lap
+112 102 66 121 girl
+128 148 21 19 yellow
+9 32 247 198 sofa
+124 137 36 48 dress
+161 27 76 94 blanket
+161 5 94 60 floor
+99 12 62 40 hair
+63 9 129 200 woman
+140 191 29 18 watch
+2 119 123 130 album
+8 7 242 157 couch
+77 51 112 83 tshirt
+118 128 50 63 tshirt
+15 192 51 45 photo
+82 47 104 101 scarf
+1 108 120 128 trouser
+1 1 254 254 photo
+109 196 51 35 hand
+1 5 193 239 person
+128 94 46 46 hair
+111 3 129 196 pillow
+160 109 5 10 clip
+1 0 254 254 picture
+22
+https://cs.stanford.edu/people/rak248/VG_100K/22.jpg
+35
+500 324 60 36 car
+440 326 65 30 car
+2 54 88 331 palm tree
+280 110 50 21 balcony
+281 86 44 24 balcony
+280 65 49 21 balcony
+284 41 47 25 balcony
+1 383 84 33 shadow
+599 55 25 28 window
+277 288 28 95 door
+205 289 25 89 door
+171 292 22 85 door
+106 292 19 76 door
+82 295 22 71 door
+41 330 758 85 street
+440 326 65 30 cars
+57 251 355 140 train
+286 2 170 290 high rise building
+283 14 51 25 balcony
+457 1 181 331 building
+652 1 147 307 building
+64 5 129 393 palm tree
+550 3 33 465 pole
+0 345 799 171 grass
+153 232 18 26 stop sign
+563 316 82 46 car
+402 321 41 37 car
+0 3 288 218 sky
+111 510 424 76 painted lines
+13 402 161 51 shadow
+2 375 797 224 road
+364 352 8 11 lights
+496 385 43 21 cover plate
+60 233 100 46 pole
+18 10 757 573 photo
+23
+https://cs.stanford.edu/people/rak248/VG_100K/23.jpg
+34
+194 214 56 233 girl
+99 203 149 242 girls
+2 364 794 235 ground
+606 260 68 37 man
+581 0 218 245 tree
+122 143 41 49 sign
+320 0 478 308 building
+179 205 40 235 girl
+103 197 72 250 girl
+1 384 798 100 shadows
+314 0 279 197 tree
+22 199 567 233 car
+544 243 255 151 car
+2 202 50 202 person
+350 63 59 64 sign
+577 103 38 60 sign
+197 6 55 117 sign
+4 0 319 398 building
+3 6 795 574 scene
+21 194 574 251 van
+109 260 55 77 tank top
+313 348 95 100 tire
+0 118 108 53 advertisement
+492 305 51 30 license plate
+2 3 798 591 photo
+442 426 108 30 stripe
+197 250 51 81 shirt
+1 228 50 86 shirt
+188 255 24 72 shirt
+0 168 114 140 door
+523 17 66 90 banner
+705 326 59 67 wheel
+10 10 672 449 photo
+22 16 753 542 outside
+24
+https://cs.stanford.edu/people/rak248/VG_100K/24.jpg
+37
+209 347 288 192 marks
+639 330 151 153 bike
+55 289 18 15 something
+442 140 24 70 lighting
+335 263 145 101 bikes
+371 258 72 85 blue bike
+22 19 744 466 time
+79 94 495 489 it
+149 300 37 126 next to street
+288 178 45 50 in distance
+533 387 266 165 on sidewalk
+36 280 43 71 man
+166 308 351 291 road
+455 261 226 156 car
+639 330 151 153 bicycle
+268 9 376 427 trees
+419 226 38 108 man
+297 191 33 23 sign
+371 258 72 85 motor bike
+114 229 127 60 traffic
+190 256 58 35 motorcycles
+9 10 785 512 photo
+106 268 49 176 poles
+5 24 133 320 building
+57 18 357 144 weather
+250 385 69 39 stripes
+51 34 673 467 scene
+637 289 121 194 bicycle
+131 201 512 195 busy
+218 316 69 88 lines
+15 271 76 87 boy
+116 231 432 275 street
+0 325 163 163 pvement
+57 291 27 12 bottle
+457 152 27 158 pole
+430 264 64 97 scooter
+193 252 65 41 motorbike
+25
+https://cs.stanford.edu/people/rak248/VG_100K/25.jpg
+40
+93 340 71 85 stroller
+571 240 163 49 umbrella
+198 312 48 131 dress
+707 357 54 46 chair
+656 361 44 45 chair
+453 352 34 42 chair
+608 350 44 41 chair
+410 96 48 61 window
+0 0 800 599 day
+2 0 798 598 scene
+646 339 38 66 table
+685 348 42 55 table
+522 347 40 58 table
+498 341 39 59 table
+644 337 156 56 sidewalk
+642 288 39 58 car
+123 444 109 21 shadow
+284 315 33 45 top
+115 364 27 19 child
+405 238 167 47 umbrella
+187 284 62 176 woman
+494 359 47 45 chair
+503 145 118 55 balcony
+607 320 53 70 person
+139 279 49 153 man
+228 123 133 140 plants
+378 274 50 87 door
+403 235 335 48 umbrellas
+479 329 248 83 tables
+545 348 50 60 chair
+736 304 64 65 car
+673 299 73 59 car
+14 351 784 247 ground
+269 289 54 163 woman
+682 17 79 353 pole
+639 7 58 130 sky
+0 0 681 423 building
+52 263 315 239 people
+636 277 161 104 cars
+409 213 349 218 area
+26
+https://cs.stanford.edu/people/rak248/VG_100K/26.jpg
+52
+1 402 86 63 car
+416 137 104 255 building
+513 100 160 263 building
+35 142 145 250 building
+49 154 27 14 window
+45 182 44 21 window
+111 167 32 19 window
+148 279 29 25 window
+580 118 17 40 window
+551 136 20 26 window
+582 164 23 27 window
+512 208 20 23 window
+512 282 20 23 window
+3 236 71 173 tree
+130 322 58 79 tree
+170 323 45 70 tree
+419 223 79 273 lightpost
+393 375 43 146 man
+53 389 746 210 sidewalk
+75 399 117 75 car
+508 151 178 291 pine tree
+52 3 747 349 sky
+675 89 78 188 sign
+296 271 40 138 statue
+299 272 26 49 man riding a horse
+124 11 105 388 building
+146 243 30 18 window
+9 8 787 588 outdoor scene
+1 372 244 203 traffic
+1 353 268 247 roadway
+357 399 247 57 grass
+78 299 52 118 tree
+661 99 138 249 building
+407 375 20 23 hair
+327 402 219 69 flowers
+251 391 374 199 street
+426 129 43 25 sign
+409 139 90 93 building
+718 435 60 60 dispenser
+558 360 112 55 vehicle
+558 327 88 81 bus
+619 356 42 165 man
+638 418 27 48 package
+231 210 55 144 building
+29 16 293 380 buildings
+14 235 193 165 trees
+280 389 449 113 people
+246 441 178 101 shadows
+583 381 91 131 men
+603 421 83 53 papers
+396 403 36 69 suit
+240 422 112 76 bricks
+27
+https://cs.stanford.edu/people/rak248/VG_100K/27.jpg
+24
+197 360 18 16 switch
+254 10 546 61 reflection
+1 1 799 597 picture
+186 434 451 154 shadow
+262 341 12 16 socket
+363 289 50 43 chair
+567 302 63 190 chair
+395 327 179 259 chair
+181 289 445 310 set
+273 289 352 308 chairs
+183 303 443 294 table
+3 3 794 595 room
+4 1 176 597 door
+147 2 653 107 ceiling
+270 306 119 258 chair
+117 2 682 466 wall
+214 356 18 17 socket
+613 320 141 137 air conditioner
+120 4 222 463 wall
+327 1 473 438 wall
+1 3 798 596 scene
+125 438 68 49 strip
+125 414 653 185 carpet
+189 2 143 33 tile
+28
+https://cs.stanford.edu/people/rak248/VG_100K/28.jpg
+36
+188 92 100 103 picture
+201 29 63 56 picture
+98 3 83 89 picture
+108 105 62 78 picture
+2 4 792 595 photo
+303 77 195 176 frame
+203 33 62 54 frame
+192 96 95 102 frame
+106 107 69 76 frame
+97 3 79 95 frame
+22 395 98 100 pillow
+85 452 412 83 plank
+3 1 790 461 wall
+123 432 133 71 bowl
+270 420 70 68 vase
+205 362 208 122 flowers
+0 324 511 234 couch
+308 78 92 155 reflection
+297 68 201 183 picture
+506 318 67 44 basket
+354 368 128 109 pillow
+345 459 125 31 book
+83 456 453 144 table
+94 3 406 290 pictures
+0 0 800 597 room
+60 495 124 97 cloth
+517 374 87 163 stand
+0 48 75 220 painting
+328 470 470 126 pillows
+1 323 101 90 blanket
+557 460 90 69 basket
+157 532 640 65 floor
+510 285 37 37 orchid
+775 0 25 574 curtains
+463 191 83 132 orchid
+522 353 95 182 side table
+29
+https://cs.stanford.edu/people/rak248/VG_100K/29.jpg
+42
+667 214 65 175 woman
+579 231 24 20 raft
+221 246 579 76 shore
+360 273 11 11 hand
+361 267 11 19 pocket
+494 8 305 96 clouds
+505 294 95 47 words
+273 468 374 80 grass
+473 292 32 30 words
+676 245 47 59 blouse
+327 396 41 22 sandals
+325 397 41 19 feet
+361 234 223 22 waves
+308 162 67 254 woman
+96 178 703 124 ocean
+2 187 297 97 building
+2 248 798 351 beach
+0 1 800 201 sky
+313 199 54 77 tank top
+320 269 52 60 shorts
+1 264 799 156 grass
+674 298 54 56 skirt
+310 210 59 121 attire
+90 33 56 276 pole
+121 199 172 31 railing
+740 179 25 22 sailboat
+460 210 31 17 water
+303 159 412 252 women
+528 230 120 146 boats
+161 237 65 53 cottage
+513 183 23 5 horizon
+323 174 21 20 hair
+40 499 49 35 footprints
+20 195 54 82 house
+356 270 11 11 hands
+238 385 78 29 shadow
+495 301 93 37 blue art
+327 172 393 134 women
+469 273 209 114 boat
+20 20 753 565 photo
+10 13 762 560 picture
+3 13 772 571 outside
+30
+https://cs.stanford.edu/people/rak248/VG_100K/30.jpg
+33
+332 300 60 131 chair
+7 119 81 162 night
+379 96 90 312 curtains
+373 106 23 187 picture
+370 105 30 213 night
+154 47 298 357 curtains
+94 373 104 110 luggage
+205 310 108 134 chair
+12 12 778 580 picture
+334 50 63 37 light
+81 6 367 75 ceiling
+13 488 461 104 floor
+256 309 151 136 table
+529 181 228 196 tv
+625 76 64 56 remote
+489 373 278 107 drawer
+491 441 275 113 entertainment center
+104 407 89 72 bag
+708 100 60 27 sign
+445 115 341 482 stand
+0 288 107 163 rails
+500 27 191 125 advertisements
+1 434 796 160 rug
+423 5 360 594 wall
+186 284 209 173 chairs
+3 107 104 378 window
+556 24 139 112 magazines
+497 373 264 219 three drawers
+318 97 139 312 window
+592 412 46 27 handles
+675 238 35 37 reflection
+129 337 347 197 flooring
+679 100 96 39 remote
+31
+https://cs.stanford.edu/people/rak248/VG_100K/31.jpg
+20
+442 410 238 67 drainer
+222 182 42 40 kleenex
+201 246 286 31 shelf
+83 357 76 68 plant
+598 289 57 84 picture
+3 6 796 466 photo
+212 414 273 74 sink
+379 299 195 83 canister
+232 295 132 90 oven
+214 215 47 34 box
+525 488 255 111 dishwasher
+269 181 159 71 breadbox
+90 357 68 46 flowers
+678 311 13 42 switch
+674 280 125 181 wall
+428 347 29 35 container
+42 284 53 60 knife
+39 341 65 98 holder
+5 4 746 276 cabinets
+571 371 35 56 glass
+32
+https://cs.stanford.edu/people/rak248/VG_100K/32.jpg
+48
+254 0 169 315 door
+200 302 546 149 utensil
+5 4 757 425 wall
+44 438 706 160 cabinet
+211 300 540 35 rack
+128 340 175 35 outlet
+640 324 31 96 potato masher
+107 273 545 35 handle
+411 357 42 41 handle
+286 23 133 87 books
+304 197 24 33 bowls
+308 196 18 25 rims
+368 197 41 32 mugs
+362 197 46 11 rims
+265 415 167 43 sink
+358 360 96 99 faucet
+358 477 205 123 dishwasher
+41 366 724 158 counter
+0 206 56 394 refrigerator
+254 0 169 315 shelves
+0 1 754 327 cabinets
+200 302 546 149 wear
+38 315 722 117 wall
+0 1 754 327 cabinet
+107 273 545 35 handles
+286 23 133 87 collection
+304 197 24 33 cups
+368 197 41 32 cups
+277 337 35 39 outlet
+293 355 8 14 switch
+30 328 30 40 dispenser
+37 333 19 32 towels
+463 315 288 135 utensils
+368 266 48 33 plate
+353 284 61 28 shelf
+424 0 79 317 cabinet
+491 265 12 49 handle
+130 339 19 35 socket
+56 308 67 44 tiles
+347 24 58 273 glass
+414 427 243 81 reflections
+315 315 162 79 backsplash
+489 272 35 35 handles
+358 183 63 54 cups
+357 228 55 10 shelf
+291 336 17 33 switch plate
+288 353 13 14 switch
+268 26 155 77 cookbooks
+33
+https://cs.stanford.edu/people/rak248/VG_100K/33.jpg
+74
+594 183 51 119 closed door
+92 30 199 243 window open
+185 394 34 50 glasses empty
+226 379 38 41 empty glasses
+186 379 81 63 glasses are empty
+4 290 524 218 couch is grey
+6 538 239 61 couch is white
+222 379 47 50 bottles
+287 9 247 274 wall
+4 1 792 598 indoors picture
+13 381 358 164 table on floor
+175 387 54 59 glasses on table
+360 290 439 301 floor has tiles
+713 286 86 59 woods are there
+103 65 168 163 sun is shinning
+595 184 36 99 windows are clear
+501 258 10 19 corner switch
+501 258 17 17 switch is at corner
+222 289 188 99 seats are white
+13 290 525 83 pillows on seats
+221 406 50 26 orange liquid
+92 30 199 243 window
+4 1 792 598 room
+378 425 53 87 rug
+495 438 77 61 floor
+367 20 117 46 wall
+166 378 80 73 wine glasses
+116 439 114 57 table
+233 407 34 18 plate
+557 359 71 45 reflections
+225 390 18 26 flask
+254 419 9 8 liquid
+283 297 238 84 couch
+193 294 127 51 pillows
+593 185 39 122 door
+499 253 19 23 switch
+323 20 67 23 wood
+346 67 99 90 picture
+722 290 73 63 woods
+638 4 143 220 chimney
+600 201 33 50 trees
+258 543 102 53 carpet
+194 382 76 24 glasses
+342 69 108 158 painting
+684 512 104 67 tiles
+271 381 86 38 coffee table
+715 288 49 44 logs
+710 345 58 57 fireplace
+422 82 13 27 picture frame
+181 49 113 71 window
+117 123 108 64 sun shinning
+223 42 44 81 windows
+237 385 32 39 bottle
+217 369 27 55 bottle
+77 501 340 68 floor
+12 373 356 197 table
+13 382 379 176 table
+698 549 97 33 tile
+577 516 117 69 tile
+587 482 98 46 tile
+696 520 88 32 tile
+478 474 90 42 tile
+404 430 238 162 floor
+720 287 78 75 wood
+727 363 65 64 stand
+245 285 280 133 seat
+413 285 68 59 pillow
+327 283 78 66 pillow
+257 295 61 50 pillow
+189 277 72 65 pillow
+64 285 93 72 pillow
+0 286 522 158 seat
+231 417 37 8 liquid
+242 385 29 43 glass
+34
+https://cs.stanford.edu/people/rak248/VG_100K/34.jpg
+45
+254 407 205 169 metal rods
+757 250 39 41 cup
+68 550 30 32 wheel
+143 472 25 23 wheel
+146 142 383 284 table
+766 36 32 175 painting
+125 472 147 97 shadow
+154 336 182 114 shadow
+448 369 220 103 shadow
+215 559 166 40 shadow
+529 238 268 352 table
+10 5 781 590 office
+597 129 154 145 monitor
+570 278 99 61 computer
+616 229 96 38 base
+639 238 48 18 swivel
+231 233 227 355 chair
+597 129 154 145 computer monitor
+278 109 50 62 picture
+325 122 52 49 picture
+757 250 39 41 mug
+452 190 71 52 telephone
+710 3 89 279 wall
+7 323 792 271 floor
+573 235 25 23 mouse
+5 315 114 95 printer
+2 331 170 250 table
+449 486 348 92 shadow
+264 275 54 48 fabric
+4 450 111 65 paper
+265 197 109 52 notebooks
+453 190 43 33 handset
+288 121 76 36 pictures
+275 109 96 62 frames
+296 199 46 16 toy car
+513 83 228 296 computer
+752 247 41 50 coffee mug
+319 120 66 48 frame
+269 112 61 50 frame
+522 206 276 148 desk
+182 150 335 43 shelf
+673 268 66 24 eyeglasses
+213 238 47 12 pens
+230 489 231 109 roller wheels
+409 8 309 222 wall
+35
+https://cs.stanford.edu/people/rak248/VG_100K/35.jpg
+32
+483 182 54 58 lamp
+38 270 113 147 drawer
+463 172 335 257 wall
+529 128 168 141 stand
+5 1 788 598 office
+46 152 75 110 computer
+170 232 614 353 chairs
+480 129 205 144 lamp
+33 7 712 574 desk
+1 382 798 212 floor
+35 22 104 84 books
+43 2 249 432 desk
+168 394 613 189 wheels
+38 270 113 147 drawers
+670 14 129 163 bookshelf
+509 0 133 174 flowers
+34 29 765 119 books
+535 283 241 299 desk chair
+173 234 139 195 desk chair
+229 6 140 385 file cabinet
+291 7 161 399 shadows
+347 2 111 420 wall
+191 268 561 314 table
+290 321 196 261 table stand
+63 404 92 34 wheels
+138 241 120 12 keyboard
+44 1 127 182 window blinds
+0 458 799 141 shadows
+82 165 33 48 computer screen
+163 197 64 47 some books
+43 2 421 423 wall
+36 433 244 164 floor
+36
+https://cs.stanford.edu/people/rak248/VG_100K/36.jpg
+41
+366 363 96 55 bagels
+400 140 228 258 reflection
+467 391 56 24 silver ware
+465 386 135 74 top
+307 369 49 30 tablecloth
+680 271 21 53 bottle
+40 201 22 12 cup
+522 264 128 120 stove
+588 313 159 48 kitchen top
+300 90 216 197 light
+403 297 87 35 drawers
+535 277 49 31 pot
+500 305 91 83 cooker
+358 256 30 29 vase
+345 233 48 25 flowers
+294 85 92 165 window
+25 181 37 30 kettle
+166 129 127 217 fridge
+8 256 131 39 drawers
+20 10 501 72 ceiling
+574 328 174 67 drawers
+39 329 611 143 table
+29 137 51 32 pot
+2 1 790 595 kitchen
+0 106 141 299 wall unit
+0 396 799 197 floor
+169 331 296 78 food
+137 288 99 92 sink
+203 372 108 32 bowl
+194 331 124 64 fruits
+364 362 101 48 bread
+362 393 101 27 cutting board
+501 23 114 89 greenery
+294 280 101 17 counter
+557 101 60 87 candle holders
+171 242 45 49 dispenser
+131 66 165 285 cabinet
+653 273 30 49 wine
+12 78 117 315 hutch
+121 280 90 81 faucet
+710 282 26 62 plates
+37
+https://cs.stanford.edu/people/rak248/VG_100K/37.jpg
+52
+549 253 79 69 photo
+580 247 57 45 children
+5 278 29 145 flower pot
+442 459 247 140 cloth
+8 10 782 575 picture
+14 280 48 48 leaves
+1 544 795 53 floor
+269 535 96 63 carpet
+230 263 468 104 pillows
+5 418 82 14 glass
+428 420 332 7 glass
+4 255 53 172 flowers
+5 192 256 390 seat
+523 232 153 122 pillow
+703 295 86 19 fruit
+665 302 132 104 bowl
+428 375 143 65 books
+593 400 89 21 plate
+149 217 649 291 couch
+661 3 136 136 leaves
+352 401 447 131 table
+32 384 54 34 box
+7 399 93 99 table
+440 437 266 163 blanket
+665 297 133 74 basket
+229 216 526 161 pillows
+758 448 27 48 leg
+90 1 59 341 trim
+438 470 144 129 fringe
+438 438 270 161 shawl
+27 266 144 139 pillows
+0 192 278 406 chair
+223 2 379 206 things
+146 1 653 278 wall
+6 480 793 118 carpet
+7 445 792 155 floor
+28 266 144 136 pillow
+4 6 794 592 room
+147 204 652 293 sofa
+0 1 95 303 door
+651 3 147 155 branches
+650 0 149 153 plant
+400 466 389 133 ottoman
+1 322 27 93 vase
+0 448 796 151 rug
+697 287 101 29 apples
+663 297 135 67 bowl
+2 397 117 200 end table
+256 216 163 151 pillow
+281 46 60 67 plate
+236 521 27 58 leg
+219 2 383 209 plates
+38
+https://cs.stanford.edu/people/rak248/VG_100K/38.jpg
+30
+113 556 565 243 pot
+245 581 267 217 flowers
+0 658 780 141 flowers
+250 586 254 26 china
+411 380 235 244 chairs
+146 357 242 312 table
+88 0 689 670 cloth
+333 522 68 55 bush
+0 611 89 165 shadow
+219 581 336 218 plants
+534 678 77 63 wall
+0 3 780 765 basket
+0 674 68 90 flowers
+2 4 710 173 flowers
+295 567 155 33 glassware
+232 320 405 390 scene
+77 697 64 47 shadows
+70 758 65 32 ground
+344 558 43 28 vase
+30 269 91 140 green
+491 448 123 138 alcove
+562 594 88 92 planter
+626 704 98 81 patio
+401 583 84 36 plates
+39 651 52 43 tree
+245 19 72 82 vines
+504 174 60 77 statue
+76 704 57 72 floor
+605 540 46 59 archway
+75 676 115 120 ground
+39
+https://cs.stanford.edu/people/rak248/VG_100K/39.jpg
+15
+461 220 221 75 clutter
+426 225 144 205 chair
+593 224 115 179 chair
+19 117 81 161 lamp
+569 238 19 14 vase
+556 198 38 45 flower
+212 345 588 189 floor
+360 39 101 151 painting
+5 5 793 342 wall
+21 248 217 285 plant
+535 58 115 133 mirror
+380 255 170 218 chair
+613 239 143 209 chair
+168 58 115 137 mirror
+474 247 222 186 table
+40
+https://cs.stanford.edu/people/rak248/VG_100K/40.jpg
+23
+100 346 457 400 lamp stand
+181 686 376 113 table
+278 262 80 93 frame
+385 300 18 46 person
+368 297 23 54 person
+0 2 557 472 background
+275 264 147 95 photos
+271 265 145 94 frames
+0 292 210 493 chair
+278 262 80 93 picture
+0 1 361 447 books
+2 3 378 444 shelf
+351 276 69 87 picture
+371 224 89 127 vase
+0 8 556 791 scene
+202 1 355 348 flowers
+122 340 437 419 table
+170 104 213 244 lamp stand
+166 105 210 117 lampshade
+193 696 361 91 floor
+286 750 181 48 tile
+398 2 161 562 window
+299 440 98 80 bow
+41
+https://cs.stanford.edu/people/rak248/VG_100K/41.jpg
+32
+45 312 26 18 lid
+247 368 106 72 power cord
+602 232 92 35 can opener
+262 484 218 113 kitchen drawer
+1 305 42 93 jerrycan
+17 316 118 172 gallon jug
+65 277 202 150 toaster oven
+330 266 29 68 power outlet
+694 304 76 149 knife block
+465 111 64 36 box
+469 121 53 19 matches
+262 484 218 113 drawers
+7 359 783 241 counter
+1 156 727 293 wall
+519 555 122 44 kitchen drawer
+4 4 289 226 cabinet
+3 55 30 91 handle
+114 53 25 72 handle
+324 522 72 42 handle
+77 573 38 27 handle
+17 484 221 116 kitchen drawer
+372 231 344 232 microwave oven
+6 5 783 595 kitchen
+93 258 115 61 mixer
+0 171 728 237 tiles
+0 366 797 229 tiles
+321 260 45 74 switch
+537 170 77 91 cup
+699 289 25 55 knife
+463 138 80 54 bowl
+67 269 167 43 tin
+398 0 208 242 stand
+42
+https://cs.stanford.edu/people/rak248/VG_100K/42.jpg
+38
+24 75 30 49 couch
+222 209 360 93 coffee table
+58 391 718 198 refrigerator
+39 385 94 52 chair
+8 4 206 239 room
+6 200 184 247 sofa
+355 310 433 279 carpet rug
+1 5 159 181 lamp
+596 181 30 81 tv
+6 200 184 247 chair
+18 11 763 552 scene
+451 100 97 164 fridge
+219 292 142 152 table
+34 381 85 31 book
+31 380 93 61 pile
+51 404 252 195 chair
+54 405 252 192 wood
+192 7 601 287 wall
+3 0 215 175 daytime
+84 265 714 329 carpet
+66 263 728 330 floor
+1 1 108 151 view
+17 73 36 56 building
+3 380 148 215 table
+3 3 405 594 left
+222 3 316 595 middle
+58 246 740 345 several
+2 1 160 171 window
+48 375 465 223 two
+4 389 155 209 table
+1 69 117 67 city
+3 194 193 404 couch
+620 61 22 21 alarm
+411 17 208 285 doorway
+404 198 81 106 chair
+0 0 799 599 indoors
+2 0 795 598 entertainment center
+229 203 85 105 chair
+43
+https://cs.stanford.edu/people/rak248/VG_100K/43.jpg
+37
+276 190 273 253 tv set
+521 518 203 77 plate
+178 366 616 231 table
+639 270 39 56 switch
+569 70 230 321 wall
+7 57 767 145 tiles
+4 10 785 587 kitchen
+6 513 282 75 drawers
+99 546 36 22 knob
+375 245 65 48 two men
+10 348 131 67 plastic things
+440 281 183 261 thing
+15 338 740 229 counter
+9 195 773 150 backsplash
+6 409 425 81 granite
+557 272 51 29 wire
+649 315 100 14 wire
+12 4 787 67 cabinets
+18 508 311 81 cabinets
+702 286 44 64 outlet
+0 42 799 336 tiles
+273 176 281 240 tv
+0 498 262 100 drawer
+1 354 119 56 plates
+601 403 107 97 tray
+0 360 799 236 counter
+680 125 119 445 stand
+594 250 24 50 socket
+550 269 53 37 plug
+529 526 179 63 plate
+437 276 162 255 object
+0 175 799 149 tiles
+102 550 18 16 knob
+482 463 30 27 dial
+296 248 116 113 people
+636 270 34 58 phone outlet
+599 315 116 96 plug
+44
+https://cs.stanford.edu/people/rak248/VG_100K/44.jpg
+63
+153 439 286 160 chair
+245 261 553 132 table
+95 40 177 157 projector screen
+459 316 188 214 chair
+458 401 173 139 legs
+2 9 98 26 light
+117 12 116 23 light
+242 14 101 26 light
+350 19 93 25 light
+277 143 231 141 stand
+168 437 260 126 arms
+162 524 275 75 legs
+4 235 794 364 floor
+363 149 75 51 writing
+280 82 212 151 board
+1 34 409 192 chalkboard
+95 40 177 157 projector
+253 216 64 69 chair
+427 3 371 350 wall
+280 87 210 138 there
+99 217 700 305 tables
+0 5 791 583 room
+3 221 792 377 chairs
+0 6 797 591 be
+0 5 796 593 classroom
+2 4 797 594 an
+0 3 792 596 scene
+1 10 442 39 lights
+96 44 180 155 board
+547 65 19 25 alarm
+1 6 798 592 time
+1 4 791 595 is
+0 2 798 592 noone
+281 89 204 138 white
+364 146 74 48 writings
+8 273 790 324 carpet
+178 230 604 368 seats
+155 252 52 21 book
+100 218 452 62 table
+91 215 708 341 desks
+0 37 414 172 board
+547 60 20 32 red
+257 219 61 52 chair
+111 199 169 14 chalks
+318 245 70 48 white
+307 224 251 74 chairs
+128 254 324 49 long
+136 250 324 45 table
+251 213 70 58 black
+482 218 31 21 item
+209 315 62 134 legs
+210 280 157 170 chair
+21 268 20 19 socket
+0 202 466 118 wall
+348 260 112 124 white
+342 261 116 128 chair
+99 48 175 146 white
+0 36 417 177 writing
+106 195 182 22 markers
+455 236 220 36 brown
+454 235 227 39 table
+6 275 793 324 carpeted
+209 313 66 146 metallic
+45
+https://cs.stanford.edu/people/rak248/VG_100K/45.jpg
+24
+320 252 35 40 van
+5 273 306 67 sidewalk
+181 5 71 290 brick
+3 2 281 315 building
+308 263 11 62 parking meter
+663 212 9 13 light
+695 214 8 12 light
+5 299 314 44 corner
+5 327 303 11 curb
+311 247 271 84 street
+550 224 228 146 suv
+262 265 537 328 intersection
+558 22 230 254 awning
+6 226 28 97 man
+43 288 39 44 wastebasket
+255 326 163 274 line
+307 3 103 255 sky
+587 232 8 15 light
+143 108 27 225 stop light
+501 1 294 279 building
+390 4 70 257 right building
+422 259 52 41 car
+379 250 34 34 car
+59 122 98 188 entrance
+46
+https://cs.stanford.edu/people/rak248/VG_100K/46.jpg
+76
+0 290 314 233 photo shows taxis.
+16 14 745 441 scene is outside.
+2 5 777 286 not nighttime.
+221 457 493 142 see white lines.
+5 228 742 370 photo shows street.
+11 305 695 160 street view shown.
+5 298 791 197 there are cars.
+323 350 475 132 there are suvs
+329 335 465 82 see two suvs
+53 170 667 182 see clothing shop.
+489 2 300 366 see buildings.
+649 8 151 287 many stories seen.
+285 5 509 132 see windows.
+98 373 243 103 taxi on street.
+3 375 156 102 street shows taxi.
+126 51 53 90 see window.
+297 50 49 90 window in edifice.
+212 190 49 68 see mannequins.
+492 182 181 58 see store display.
+368 243 168 44 sign on edifice.
+367 248 84 36 salvatore on sign.
+516 339 280 129 silver car on road.
+39 103 681 203 see store.
+591 430 48 58 tire has hubcap.
+63 427 95 52 see headlight.
+273 403 55 65 headlight on car.
+633 345 142 63 window on side.
+318 391 41 41 car has tail light.
+315 394 40 38 tail light on car.
+520 394 62 71 see tail light.
+521 393 41 46 tail light noted.
+5 298 791 197 vehicles
+323 350 475 132 suvs
+98 373 243 103 car
+3 375 156 102 taxi
+368 243 168 44 logo
+516 339 280 129 car
+317 359 239 106 car
+356 279 349 121 window
+498 344 41 50 mannequins
+729 513 70 22 drainage
+95 475 650 21 lines
+0 0 693 153 windows
+186 337 29 50 photo
+190 341 19 40 person
+4 441 792 157 road
+0 528 791 49 line
+0 2 748 444 building
+5 1 792 403 buildings
+2 126 732 290 shop
+157 136 521 82 lights
+1 449 798 125 marks
+277 411 43 17 headlights
+773 350 25 29 man
+313 449 483 78 reflection
+286 359 50 25 thing
+0 375 323 130 taxis
+98 365 222 97 taxi
+4 389 157 107 taxi
+285 530 202 49 line
+240 471 149 37 line
+256 449 459 148 road
+311 354 226 106 car
+535 338 238 130 car
+92 353 231 109 car
+0 362 189 139 car
+157 430 616 164 street
+61 8 699 341 building
+716 4 59 353 building
+145 459 440 133 street
+157 122 587 250 store
+359 130 343 119 window
+589 433 46 46 hubcap
+580 423 58 64 tire
+528 344 270 135 vehicle
+554 356 68 32 window
+47
+https://cs.stanford.edu/people/rak248/VG_100K/47.jpg
+31
+46 223 123 35 sign
+747 320 50 20 sidewalk
+80 426 324 130 sidewalk
+163 490 145 35 cover
+549 263 30 22 sign
+165 343 386 52 asphalt
+376 278 83 41 buses
+6 227 75 91 buses
+14 10 776 569 scene
+25 5 154 122 traffic lights
+29 1 592 278 buildings
+684 214 107 99 trees
+555 278 71 147 person
+551 291 74 22 umbrella
+18 9 261 262 building
+358 313 32 11 headlights
+355 294 67 39 taxi
+648 232 33 73 clocktower
+164 203 92 55 flags`
+13 363 64 95 trashbin
+565 303 57 108 man
+88 348 695 72 road
+697 131 101 72 traffic lights
+29 297 505 38 cars
+106 345 667 237 street
+36 215 148 48 sign
+41 208 136 110 store
+626 289 126 68 car
+506 309 139 59 turn
+637 210 82 69 clock
+621 190 152 141 corner
+48
+https://cs.stanford.edu/people/rak248/VG_100K/48.jpg
+66
+0 367 160 174 taxi cab
+306 384 126 93 taxi cab
+403 384 108 71 taxi cab
+31 425 277 166 planter
+128 402 89 63 plants
+456 393 78 27 plants
+214 426 35 26 flowers
+116 412 29 26 flowers
+308 203 93 309 street sign
+358 215 35 17 no parking
+710 336 68 19 telephone number
+607 426 18 31 shopping bag
+639 429 12 32 shopping bag
+197 374 68 82 newspaper box
+194 371 133 120 group
+248 374 43 81 newspaper box
+275 375 52 117 newspaper box
+531 371 47 110 man
+532 386 41 47 sweatshirt
+528 408 30 26 gym bag
+543 317 35 12 arrow
+553 319 23 10 one way
+719 394 56 99 suit
+566 281 54 22 sign
+674 396 13 31 tie
+407 153 215 195 leaves
+389 168 231 253 tree
+0 367 160 174 taxi
+306 384 126 93 taxi
+403 384 108 71 taxi
+383 379 76 28 taxi
+369 375 40 15 taxi
+678 314 107 49 awning
+614 389 36 41 shirt
+613 378 38 92 man
+655 394 34 82 suit
+537 314 47 18 sign
+132 357 95 41 suv
+1 443 795 155 pavement
+446 409 100 62 planter
+373 375 117 36 taxi cab
+718 378 58 117 man
+657 378 34 102 man
+14 4 356 272 leaves
+16 2 322 449 tree
+506 404 88 43 bag
+30 310 104 106 logo
+181 16 291 192 building
+280 183 93 256 pole
+68 401 286 174 pot
+480 287 251 198 people
+678 312 109 132 atm
+50 302 507 155 taxis
+111 34 345 142 windows
+57 27 726 488 picture
+207 6 588 340 day
+113 79 540 460 scene
+105 388 527 177 pots
+134 46 612 309 buildings
+136 69 274 372 trees
+136 204 516 301 street
+521 84 127 179 lights
+662 29 136 147 canopy
+333 171 63 299 posts
+306 460 162 36 curb
+652 356 121 132 boxes
+49
+https://cs.stanford.edu/people/rak248/VG_100K/49.jpg
+30
+373 570 36 116 girl
+109 595 42 79 shirt
+282 555 73 211 man
+239 342 17 17 light
+319 642 35 33 bag
+75 594 46 94 bag
+392 568 105 226 man
+418 599 55 96 bag
+2 584 83 90 vehicle
+154 581 59 89 planters
+232 326 30 230 pole
+408 285 121 438 store
+85 555 83 244 woman
+77 603 37 98 purse
+373 584 34 58 coat
+169 552 28 25 taxi
+458 391 12 50 flag
+278 576 79 81 jacket
+283 538 19 17 light
+0 549 46 32 car
+245 490 46 12 sign
+154 582 32 40 plants
+415 0 184 798 building
+2 566 596 231 street
+227 453 65 46 signs
+2 1 336 574 buildings
+236 0 154 550 sky
+115 573 30 16 sunglasses
+88 511 397 282 people
+415 134 160 193 windows
+50
+https://cs.stanford.edu/people/rak248/VG_100K/50.jpg
+37
+676 201 123 104 highlighter
+647 219 152 354 book
+197 558 260 39 book
+390 444 108 96 book
+121 96 128 167 book
+95 38 524 315 papers
+233 105 11 12 back up cd
+329 196 18 38 bookmark
+322 207 88 170 book
+310 202 29 35 bookmark
+162 324 33 41 pen
+364 369 90 96 desk lamp
+377 410 23 31 duct tape
+185 324 77 41 coffee mug
+1 102 139 300 remote control
+168 105 14 12 computer
+125 102 15 11 computer mouse
+194 532 270 67 desk
+439 56 92 93 papers
+489 65 11 14 push pin
+303 210 170 161 books
+56 484 36 39 table
+1 394 59 56 keyboard
+373 382 67 79 cup
+275 461 85 73 selotape
+435 61 82 78 reminder
+256 64 124 102 board
+37 337 58 27 compact disk
+303 414 70 24 pens
+257 68 132 16 pins
+8 105 113 285 lamp
+449 501 32 40 cord
+104 355 23 19 lamp stand
+319 469 49 27 tape
+163 343 30 28 marker
+292 537 135 31 folder
+3 304 57 63 telephone
+51
+https://cs.stanford.edu/people/rak248/VG_100K_2/51.jpg
+26
+358 261 49 52 head of a person
+507 214 45 62 head of a person
+506 217 48 62 head of a person
+311 275 41 50 head of a person
+362 259 41 53 head of a person
+308 277 46 41 head of a person
+360 339 76 25 arm of a person
+446 329 53 90 arm of a person
+560 324 35 82 arm of a person
+559 324 33 80 arm of a person
+290 349 30 42 arm of a person
+358 337 66 30 arm of a person
+560 324 41 82 arm of a person
+288 345 36 49 arm of a person
+360 339 66 26 arm of a person
+441 328 65 86 arm of a person
+622 126 106 42 calm tidal wave on ocean
+23 381 108 49 calm tidal wave on ocean
+153 400 157 54 calm tidal wave on ocean
+626 260 153 100 calm tidal wave on ocean
+594 197 138 51 calm tidal wave on ocean
+24 5 166 76 calm tidal wave on ocean
+625 8 154 69 calm tidal wave on ocean
+603 117 185 78 calm tidal wave on ocean
+651 256 129 80 calm tidal wave on ocean
+355 5 158 73 calm tidal wave on ocean
+52
+https://cs.stanford.edu/people/rak248/VG_100K_2/52.jpg
+31
+150 250 306 90 foliage
+23 453 773 144 foliage
+0 5 796 280 sky
+656 402 58 53 tide
+2 374 792 216 river
+495 538 38 41 tide
+110 325 26 17 window
+2 250 152 114 building
+38 316 48 22 window
+745 298 27 14 window
+718 282 76 34 building
+783 309 14 26 window
+766 294 32 37 building
+178 335 236 49 bridge
+462 240 122 92 building
+411 352 57 56 boat
+26 277 117 45 roof
+112 373 664 222 water
+280 357 61 27 opening
+404 15 186 113 cloud
+129 55 110 101 cloud
+657 94 122 107 cloud
+567 261 128 122 tree
+0 363 797 230 water
+115 370 538 224 water
+89 344 528 241 river
+239 287 151 112 cement
+243 53 338 116 sky
+23 272 136 91 building
+114 55 523 123 sky
+402 93 321 91 sky
+53
+https://cs.stanford.edu/people/rak248/VG_100K_2/53.jpg
+30
+538 317 220 208 car
+470 4 288 335 building
+607 53 46 170 window
+426 159 25 25 lamp
+405 177 93 276 phone
+526 273 35 62 entrance
+603 284 35 62 person
+583 307 56 49 motorcycle
+246 200 49 180 traffic light
+268 217 21 25 red
+20 368 65 91 doorway
+21 85 75 358 lighting
+620 295 140 60 car
+272 252 65 87 storefront
+548 439 46 35 license plate
+375 433 140 100 shadow
+679 438 80 87 wheel
+364 158 84 237 post
+103 354 460 180 sidewalk
+117 320 494 71 street
+431 259 53 128 pay
+539 370 174 156 front end
+368 324 34 63 mail box
+265 211 27 28 light
+226 295 155 47 bicycles
+126 20 289 323 building
+272 6 198 394 tree
+5 3 192 476 building
+690 301 30 24 person
+225 116 110 165 window
+54
+https://cs.stanford.edu/people/rak248/VG_100K_2/54.jpg
+39
+2 0 639 495 building
+197 137 28 63 window
+200 80 26 54 window
+129 149 14 55 window
+420 168 7 93 window
+419 23 7 47 window
+758 406 41 161 person
+763 407 26 26 head
+497 412 76 163 person
+513 410 23 28 head
+563 422 63 139 person
+581 422 21 24 head
+536 409 30 116 person
+538 409 21 23 head
+179 465 26 30 person
+179 465 26 24 head
+759 481 31 89 leg
+605 496 22 69 leg
+523 493 49 82 leg
+492 502 41 67 leg
+563 499 28 59 leg
+43 442 353 152 car
+248 534 58 58 wheel
+57 518 44 54 wheel
+208 450 100 41 windshield
+84 448 61 40 window
+678 156 120 244 building
+744 231 54 153 window
+314 231 12 258 pole
+565 429 108 55 bike
+629 445 45 40 tire
+583 440 31 45 shirt
+503 429 52 67 jacket
+34 479 13 43 pole
+130 447 107 117 door
+499 492 69 82 pants
+572 481 50 44 skirt
+677 383 17 22 sign
+411 372 388 90 fence
+55
+https://cs.stanford.edu/people/rak248/VG_100K_2/55.jpg
+57
+6 0 198 148 flowers
+55 122 60 454 pole
+570 469 174 128 trash can
+3 400 786 195 street
+3 442 166 154 bikes
+353 394 16 21 bag
+466 383 67 42 bike
+745 364 52 88 vehicle
+307 400 490 82 sidewalk
+563 114 56 60 windows
+199 479 53 24 line
+264 364 22 67 person
+264 360 20 40 shirt
+2 442 161 144 bikes
+578 477 170 120 trash can
+752 371 45 81 vehicle
+6 0 790 448 buildings
+0 4 226 149 flowers
+160 100 73 214 street light
+195 339 81 52 windshield
+123 397 27 32 wheels
+17 219 700 164 wheels
+435 367 29 60 woman
+444 391 24 37 child
+428 374 27 29 balloons
+6 318 272 117 bus
+291 370 22 52 person
+338 370 27 48 person
+439 373 27 51 person
+452 394 16 34 child
+711 260 17 17 lamp
+38 439 144 157 bicycle
+0 442 100 150 bicycle
+575 474 177 123 garbage can
+266 370 14 59 person
+576 122 37 52 window
+188 0 484 426 building
+581 220 32 52 window
+461 145 9 64 window
+191 34 468 402 building
+183 51 478 352 building
+462 244 8 44 window
+12 106 145 491 pole
+40 385 592 203 street
+180 8 580 404 building
+177 462 194 123 street
+11 18 760 578 city
+18 16 187 573 pole
+12 299 283 145 bus
+294 373 16 29 shirt
+339 372 21 27 shirt
+441 370 23 24 shirt
+263 379 23 21 shirt
+567 209 74 69 window
+566 311 55 71 window
+495 133 30 48 window
+490 215 43 78 window
+56
+https://cs.stanford.edu/people/rak248/VG_100K_2/56.jpg
+11
+463 90 68 56 window
+546 110 29 60 window
+589 124 20 53 window
+113 99 53 134 window
+240 143 40 93 window
+0 1 410 450 building
+336 167 28 82 window
+0 44 417 434 building
+551 113 24 52 window
+588 126 20 51 window
+460 3 256 251 building
+57
+https://cs.stanford.edu/people/rak248/VG_100K_2/57.jpg
+22
+228 319 73 94 people
+379 336 202 96 car
+482 507 252 90 arrow
+2 178 224 72 name
+7 158 174 252 store
+57 292 69 108 entrance
+424 309 105 188 man
+697 322 68 49 people
+3 359 782 104 sidewalk
+481 477 120 50 line
+372 339 216 83 car
+367 349 220 93 car
+2 178 233 96 sign
+134 378 29 53 pole
+85 400 704 178 street
+47 391 749 206 road
+1 369 797 229 street
+730 334 24 39 person
+713 335 21 42 person
+0 372 798 226 road
+1 1 222 404 building
+0 361 795 93 sidewalk
+58
+https://cs.stanford.edu/people/rak248/VG_100K_2/58.jpg
+34
+306 354 187 97 tables
+261 348 267 115 chairs
+188 361 21 40 handbag
+270 193 54 34 black sign
+279 198 30 19 letters
+723 179 76 226 window
+741 208 57 98 reflection
+604 379 70 96 pants
+615 332 57 56 shirt
+310 473 188 49 design
+604 310 72 170 guy
+556 0 243 496 building
+276 344 249 110 chairs
+269 0 296 456 building
+108 180 171 176 underpass
+518 225 36 193 entrance
+450 107 75 56 meson agustin
+200 313 57 146 woman
+0 345 800 253 street
+234 305 32 57 guy
+92 178 184 176 underpass
+108 1 170 168 windows
+183 369 24 37 handbag
+604 379 66 101 pants
+603 333 70 53 shirt
+431 96 133 92 sign
+452 115 69 42 letters
+722 94 16 6 paint
+106 182 173 177 archway
+0 343 781 253 sidewalk
+601 311 78 169 man
+599 330 77 61 shirt
+602 446 196 66 grass
+97 5 194 373 wall
+59
+https://cs.stanford.edu/people/rak248/VG_100K_2/59.jpg
+53
+563 349 180 181 motorcycle
+575 445 38 40 license plate
+0 236 35 193 truck
+2 410 656 188 street
+736 248 62 226 man
+733 280 59 84 shirt
+754 284 40 90 backpack
+238 320 174 68 railings
+232 214 225 178 porch
+368 323 256 190 silver car
+427 400 52 27 lights
+347 115 86 86 restaurant sign
+571 330 180 204 moped
+426 154 195 74 sign
+461 168 138 35 business name
+359 154 75 44 sign
+370 162 52 42 elite club
+431 142 193 90 board
+437 17 361 414 store
+493 386 100 32 license plate
+586 451 21 33 license plate
+490 390 88 27 license plate
+746 252 52 220 person
+740 284 56 84 shirt
+349 120 82 89 sign
+352 0 445 397 building
+428 398 49 33 tail light
+359 318 273 196 car
+687 67 67 82 sign
+37 386 29 25 front tire
+48 344 68 68 car
+598 457 50 82 back tire
+560 341 180 200 motorcycle
+661 1 36 378 black pole
+504 389 82 26 license plate
+340 315 296 194 car
+504 394 66 16 letters 8477 cjv
+431 141 188 82 sign
+5 242 30 140 truck back
+125 316 146 130 suv
+573 310 166 220 scooter
+607 305 93 73 mirrors
+492 387 90 34 license plate
+680 75 73 72 circle
+489 3 262 50 sign
+591 1 56 33 written
+384 123 43 21 word
+130 245 52 24 sign
+452 167 81 61 eroski
+1 234 46 206 box truck
+694 86 40 46 slash
+583 7 72 37 club
+129 240 49 29 lettering
+60
+https://cs.stanford.edu/people/rak248/VG_100K_2/60.jpg
+23
+277 270 195 310 moped
+162 210 126 221 bike
+100 190 65 134 moped
+412 409 37 44 license plate
+247 326 26 39 license plate
+133 254 20 25 license plate
+2 533 100 62 drain
+4 243 572 356 street
+3 16 95 71 lamp
+224 206 18 22 mirror
+258 367 14 19 reflector
+591 0 17 600 pole
+44 7 749 592 wall
+1 10 20 287 wall
+368 4 51 118 bars
+357 1 67 129 window
+334 344 98 32 seat
+321 3 12 276 pole
+215 201 33 70 right side
+391 444 54 100 tire
+233 341 36 90 tire
+224 310 55 21 tail light
+167 243 16 21 mirror
+61
+https://cs.stanford.edu/people/rak248/VG_100K_2/61.jpg
+13
+0 418 272 180 car
+324 235 233 259 cans
+1 213 190 166 truck
+190 223 157 101 truck
+63 298 371 240 road
+633 253 56 73 shirt
+727 260 45 57 shirt
+629 312 47 60 pants
+727 318 43 46 shorts
+626 214 65 167 man
+726 219 42 174 man
+8 2 578 266 building
+618 102 59 127 pole
+62
+https://cs.stanford.edu/people/rak248/VG_100K_2/62.jpg
+49
+110 38 39 40 window
+7 3 302 316 building
+163 38 44 44 window
+222 36 39 44 window
+126 103 50 71 window
+211 93 54 77 window
+332 13 44 54 window
+305 1 313 287 building
+432 13 46 57 window
+534 15 43 62 window
+433 86 47 52 window
+529 84 50 58 window
+330 78 49 59 window
+159 280 551 298 car
+412 433 215 50 stripe
+307 277 19 49 person
+307 283 17 18 shirt
+2 316 794 284 ground
+640 284 91 44 car
+122 283 112 38 car
+2 433 108 46 shadow
+168 363 54 13 shadow
+0 557 104 40 shadow
+62 299 131 73 plant
+219 291 60 41 plant
+0 324 68 98 plant
+1 237 154 93 fountain
+2 301 321 61 sidewalk
+47 271 35 89 woman
+45 285 32 67 dress
+122 146 61 32 balcony
+205 145 65 35 balcony
+65 304 21 22 purse
+728 117 71 323 truck
+67 364 111 46 planter
+217 330 60 25 planter
+0 408 62 45 planter
+676 158 19 21 light
+288 484 76 79 hubcap
+269 464 113 110 tire
+644 439 48 62 hubcap
+630 426 71 88 tire
+349 217 8 30 sign
+350 245 7 71 pole
+325 273 21 47 person
+171 3 35 12 window
+534 160 36 51 window
+434 160 35 47 window
+77 40 16 35 window
+63
+https://cs.stanford.edu/people/rak248/VG_100K_2/63.jpg
+48
+299 305 35 173 fork
+429 394 34 90 handle
+413 302 44 179 knife
+414 314 49 178 knife
+303 305 29 185 fork
+9 3 786 220 counter
+1 0 796 113 top
+297 306 35 176 forks
+269 166 35 120 forks
+303 308 35 173 fork
+306 305 26 178 fork
+64 360 51 200 knife
+3 142 793 452 table
+314 133 220 144 plate
+265 173 40 112 fork
+318 126 213 147 plate
+267 166 40 118 knife
+416 309 44 184 knife
+58 356 58 203 knife
+58 456 38 98 handle
+295 309 45 176 fork
+296 305 34 179 cutlery
+407 307 51 176 cutlery
+269 173 32 110 cutlery
+58 360 52 190 cutlery
+482 277 276 227 plate
+310 129 220 156 plate
+26 173 237 168 plate
+0 6 771 265 counter
+0 6 781 117 top
+409 287 58 212 knife
+51 354 66 194 knife
+301 301 40 197 fork
+275 173 32 119 fork
+71 458 32 87 handle grip
+60 362 52 189 knife
+298 394 40 84 handle
+400 374 96 154 handle
+23 127 564 464 table
+289 377 71 132 handle
+48 435 173 160 handle
+302 384 52 112 handle
+461 258 315 304 border
+276 208 48 94 handle
+421 383 66 171 handle
+469 288 305 253 border
+298 365 68 152 handle
+493 262 254 280 border
+64
+https://cs.stanford.edu/people/rak248/VG_100K_2/64.jpg
+39
+294 36 79 121 blade
+315 120 101 287 windmill
+381 60 85 111 blade
+398 162 119 41 blade
+371 181 87 126 blade
+293 181 91 119 blade
+231 145 130 49 blade
+217 35 295 265 blades
+144 6 339 195 sky
+376 318 126 85 tree
+391 408 42 99 woman
+393 427 33 43 jacket
+465 12 247 333 building
+628 41 78 293 balcony
+52 0 72 560 pole
+419 512 381 81 road
+658 528 136 57 line
+551 342 13 104 post
+548 330 17 19 light
+730 391 27 60 man
+729 400 24 23 jacket
+8 556 166 36 ground
+452 395 15 30 trunk
+293 488 230 39 sidewalk
+315 188 103 165 building
+238 474 21 70 pole
+361 550 371 46 street
+581 388 120 30 entryway
+607 369 105 23 awning
+551 39 57 33 windows
+434 424 49 22 planter
+458 349 70 77 platform
+508 361 65 73 stairs
+661 396 21 55 person
+661 407 18 22 jacket
+131 217 339 122 building
+216 228 104 34 balcony
+306 333 98 103 entrance
+390 456 16 34 purse
+65
+https://cs.stanford.edu/people/rak248/VG_100K_2/65.jpg
+56
+381 66 113 133 man
+314 12 349 131 car
+472 82 326 206 car
+413 64 38 42 hair
+389 53 106 153 man
+149 131 499 438 sedan
+2 320 221 277 sidewalk
+321 13 349 134 van
+177 76 152 83 truck
+380 107 122 109 sweater
+383 67 120 136 man
+462 415 125 60 license plate
+247 428 94 116 tire
+62 357 46 26 line
+355 388 66 58 headlight
+626 164 64 38 side mirror
+458 79 339 221 car
+260 165 234 118 windshield
+185 84 136 57 truck
+386 59 105 132 man
+384 103 114 82 sweater
+556 191 30 25 handle
+458 400 126 76 license plate
+353 391 68 65 light
+283 246 109 28 windshield wiper
+390 239 89 21 windshield wiper
+390 67 105 125 man
+470 94 326 221 car
+260 422 91 147 tire
+496 0 20 17 light
+315 24 350 120 van
+58 215 68 25 license plate
+3 315 266 282 curb
+6 312 292 284 sidewalk
+158 143 485 388 car
+384 62 114 149 man
+283 2 37 22 sign
+10 28 787 540 cars
+10 364 129 232 pavers
+277 18 496 343 road
+369 35 139 173 man
+477 82 320 248 car
+460 404 136 72 plate
+258 165 245 120 window
+143 132 491 411 car
+357 388 61 65 headlight
+3 117 162 168 car
+169 526 78 50 brick
+128 482 71 58 brick
+90 447 59 42 brick
+70 423 48 33 brick
+50 397 45 34 brick
+2 312 277 285 edge
+6 255 343 341 street
+287 0 27 17 logo
+19 266 571 331 road
+66
+https://cs.stanford.edu/people/rak248/VG_100K_2/66.jpg
+25
+62 17 11 27 hinges
+3 4 103 355 door
+73 7 469 330 wall
+0 3 101 366 door
+304 161 128 105 tv
+276 231 188 174 stand
+478 154 16 32 dvd
+473 186 71 9 shelf
+508 153 19 32 dvd
+486 198 11 37 dvd
+503 235 13 32 dvd
+494 279 16 28 dvd
+473 274 19 38 dvd
+509 320 7 36 dvd
+472 317 13 28 dvd
+526 236 8 32 dvd
+37 323 112 45 rug
+28 372 581 93 carpet
+45 377 562 95 blue carpet
+46 326 106 52 brown rug
+316 171 101 88 television
+272 221 205 148 shelf
+464 115 86 247 shelf
+457 108 94 262 shelf
+460 110 96 265 shelf
+67
+https://cs.stanford.edu/people/rak248/VG_100K_2/67.jpg
+24
+70 10 62 136 flowers
+194 0 88 94 shiny metal
+71 8 65 132 picture frame
+192 4 87 93 vent
+64 287 27 85 leg of a chair
+34 301 15 75 leg of a chair
+13 300 13 69 leg of a chair
+330 333 15 44 leg of a chair
+350 333 16 34 leg of a chair
+163 323 13 51 leg of a chair
+18 115 44 105 purple flowers
+69 8 63 132 painting
+232 175 62 41 oven
+117 166 24 28 bowl with fruits
+405 68 88 82 fridge
+79 156 7 21 an outlet
+138 151 6 12 an outlet
+323 160 183 45 counter top
+404 1 53 87 two lights
+0 181 480 113 l shaped counter top
+29 155 31 72 vase
+0 3 168 226 wall
+3 7 163 251 wall
+313 3 196 69 ceiling
+68
+https://cs.stanford.edu/people/rak248/VG_100K_2/68.jpg
+10
+106 109 258 186 tv
+202 345 112 40 vcr
+358 105 30 175 wire
+15 201 25 80 wire
+78 305 52 26 controller
+51 210 53 107 console
+3 435 463 66 floor
+335 289 119 28 laptop
+8 10 446 296 wall
+32 25 22 33 socket
+69
+https://cs.stanford.edu/people/rak248/VG_100K_2/69.jpg
+21
+244 187 129 146 chicken
+233 144 50 43 potato
+280 140 46 63 potato
+326 126 50 51 potato
+284 88 55 50 potato
+330 187 46 54 potato
+373 142 54 65 potato
+424 114 73 80 cauliflower
+455 209 67 71 cauliflower
+186 32 372 372 plate
+332 188 46 50 potato
+367 219 76 67 cauliflower
+284 213 34 77 mark
+271 207 33 72 mark
+298 230 40 79 mark
+380 274 81 55 cauliflower
+2 0 636 478 table
+388 106 67 49 cauliflower
+251 197 30 63 mark
+348 70 79 61 cauliflower
+479 1 25 18 knot
+70
+https://cs.stanford.edu/people/rak248/VG_100K_2/70.jpg
+38
+41 29 145 182 painting
+179 13 46 24 wall
+218 193 87 50 person
+141 236 48 51 chair
+407 144 43 86 man
+452 142 35 83 man
+493 145 34 51 woman
+492 167 40 43 shirt
+45 209 68 55 woman
+68 229 43 31 sunglasses
+268 174 38 70 woman
+302 189 33 65 newspaper
+400 131 34 68 mean
+373 310 64 42 black
+153 58 447 364 room
+511 224 19 14 suitcase
+500 268 54 9 floor
+203 217 49 52 man
+273 258 23 23 phone
+359 135 49 64 man
+379 129 25 70 green
+53 35 115 126 left
+235 51 46 93 picture
+244 59 40 103 right
+319 142 37 40 white box
+312 85 32 39 red lever
+68 263 70 35 jacket
+441 208 21 27 bag
+331 100 160 145 men
+357 127 172 147 line
+261 275 70 27 hands
+100 315 499 68 empty
+170 317 287 122 chairs
+291 138 84 64 fire
+312 130 31 46 glass
+406 218 45 21 papers
+448 113 45 163 jacket
+452 111 43 158 man
+71
+https://cs.stanford.edu/people/rak248/VG_100K_2/71.jpg
+31
+133 140 86 233 woman
+126 235 98 139 desk
+198 266 237 108 desk
+200 155 140 219 woman
+329 165 119 72 jacket
+306 134 144 103 woman
+234 172 41 30 bangs
+213 158 73 85 hair
+152 141 41 41 hair
+306 277 37 21 bowl
+131 179 86 58 jacket
+149 272 67 102 pants
+197 209 117 88 shirt
+3 234 74 140 stripe
+23 0 262 90 light
+0 20 128 57 shade
+316 224 104 70 box
+352 242 48 12 metal
+384 268 29 36 cord
+383 259 42 42 cord
+304 134 144 99 girl
+305 201 30 24 hand
+206 31 71 108 tube
+185 213 18 14 tape
+2 199 373 175 floor
+84 181 32 13 tray
+196 157 143 217 asian woman
+126 223 106 150 table
+208 319 124 56 jeans
+4 235 70 140 line
+201 275 236 70 desktop
+72
+https://cs.stanford.edu/people/rak248/VG_100K_2/72.jpg
+37
+0 16 45 39 hair
+57 16 89 109 man
+202 12 50 35 hair
+248 46 88 73 jacket
+328 61 104 94 sweater
+430 103 45 24 glasses
+463 122 31 73 woman
+95 142 36 83 glass
+24 94 394 147 table
+264 10 63 112 man
+195 75 29 35 name tag
+170 13 74 107 woman
+88 24 40 26 glasses
+17 26 476 207 people
+186 187 50 37 cake
+269 80 44 31 badge
+436 63 56 164 woman
+23 218 65 28 salad
+123 160 40 44 water
+8 23 59 134 woman
+16 80 34 45 shirt
+20 143 49 38 mug
+327 181 25 34 fork
+293 104 17 25 glass
+345 54 40 27 beard
+225 53 31 25 arm
+50 53 98 68 shirt
+332 17 96 139 person
+328 24 64 56 head
+244 6 90 119 person
+261 5 45 45 head
+169 8 95 115 person
+192 7 58 64 head
+77 10 49 61 head
+54 5 94 135 person
+4 14 42 141 person
+9 23 31 61 head
+73
+https://cs.stanford.edu/people/rak248/VG_100K_2/73.jpg
+36
+709 342 22 102 leg
+662 241 92 224 chair
+661 239 96 120 back
+37 132 203 209 man
+49 193 179 144 suit
+117 160 49 22 glasses
+200 122 115 166 woman
+202 185 116 116 shirt
+245 173 249 347 woman
+270 401 211 131 chair
+469 133 139 312 man
+461 350 115 181 chair
+586 135 97 258 woman
+560 263 131 257 chair
+210 251 49 93 bottle
+234 333 9 2 water
+216 358 41 32 fork
+157 273 34 75 wine glass
+340 383 51 82 hand
+128 232 46 58 napkin
+135 294 33 60 glass
+463 211 148 246 suit
+484 136 80 39 hair
+598 207 93 171 dress
+622 135 51 50 hair
+128 199 671 332 chairs
+173 340 101 45 silverware
+2 132 795 385 table
+0 353 57 168 hair
+474 225 53 108 tie
+517 459 97 73 purse
+421 280 378 252 floor
+128 185 32 8 mustache
+113 194 55 113 shirt
+375 286 14 19 necklace
+301 270 204 261 jacket
+74
+https://cs.stanford.edu/people/rak248/VG_100K_2/74.jpg
+42
+514 23 243 282 screen
+469 85 293 444 wall
+201 395 116 149 chair
+220 376 207 164 table
+431 485 172 112 chair
+410 421 294 176 table
+356 413 103 183 chair
+222 365 93 130 chair
+365 365 84 130 chair
+50 14 45 122 light
+0 0 799 134 ceiling
+184 0 70 46 light
+210 103 29 78 light
+69 272 26 31 sign
+51 292 239 20 counter
+294 79 172 110 sign
+302 214 162 229 bar
+28 351 32 73 trashcan
+255 314 50 91 stool
+491 318 263 184 shelf
+1 402 690 195 floor
+219 377 210 31 reflection
+103 313 205 107 stools
+336 49 35 102 light
+48 310 58 106 leaves
+253 269 28 32 sign
+73 208 43 47 tv
+77 223 19 27 screen
+518 99 153 123 people
+518 103 69 121 man
+520 138 69 79 suit
+105 316 60 107 stool
+263 411 127 127 base
+412 420 295 70 table top
+156 314 54 103 stool
+589 0 52 95 light
+599 95 67 120 woman
+0 81 28 89 light
+52 187 17 26 light
+39 178 101 44 ceiling
+86 186 19 19 light
+491 394 115 158 chair
+75
+https://cs.stanford.edu/people/rak248/VG_100K_2/75.jpg
+40
+0 22 42 39 window
+173 56 44 19 window
+396 57 46 15 window
+436 105 38 22 window
+575 25 24 40 window
+159 6 16 9 window
+235 35 22 12 light
+361 37 14 10 light
+423 11 15 18 light
+342 195 76 64 white cushion
+399 58 42 18 blue window
+169 56 44 16 blue window
+435 109 38 19 blue window
+573 30 26 36 blue window
+0 21 43 43 blue window
+164 150 19 26 faucet
+5 154 228 50 counter
+0 213 85 184 oven
+172 54 45 23 window
+275 14 62 18 window
+397 54 46 24 window
+574 24 24 41 window
+3 154 232 48 countertop
+459 200 139 84 countertop
+75 148 522 249 floor
+230 142 42 50 seat
+232 141 41 53 seat
+337 142 66 125 seat
+1 227 84 74 oven handle
+158 152 35 26 faucet
+135 171 85 26 sink
+0 191 87 205 stove
+138 169 80 25 sink
+159 148 28 30 faucet
+0 19 42 45 window
+170 55 48 25 window
+277 14 60 20 window
+397 52 45 25 window
+435 105 42 24 window
+283 130 79 99 table
+76
+https://cs.stanford.edu/people/rak248/VG_100K_2/76.jpg
+20
+63 92 73 52 rectangular picture
+420 93 48 43 rectangular picture
+1 94 615 266 red wall
+170 115 229 136 white board
+1 12 637 252 yellow wall
+172 114 229 140 whiteboard
+63 91 72 53 framed picture
+419 93 49 43 framed picture
+1 8 637 352 wall
+499 262 69 85 chair
+324 289 51 30 chair
+432 339 82 53 chair
+472 236 43 64 chair
+34 313 54 33 chair
+240 297 68 107 chair
+172 115 225 136 board
+67 387 82 59 chair
+326 353 101 117 chair
+433 335 82 55 chair
+525 376 107 68 chair
+77
+https://cs.stanford.edu/people/rak248/VG_100K_2/77.jpg
+76
+204 278 65 56 screen
+555 258 32 41 screen
+181 269 96 97 monitor
+448 256 83 84 monitor
+581 245 69 76 monitor
+37 285 81 64 screen
+204 275 68 60 screen
+366 270 50 49 screen
+470 264 45 42 screen
+617 258 26 37 screen
+28 283 99 112 monitor
+180 271 104 98 monitor
+333 263 98 92 monitor
+512 247 80 59 monitor
+590 247 61 60 monitor
+580 338 57 91 chair
+619 328 74 37 chair
+580 333 56 84 chair
+677 297 73 83 head
+528 263 52 52 head
+663 249 46 43 head
+25 277 105 117 computer
+175 266 106 104 computer
+324 261 99 97 computer
+433 256 85 84 computer
+579 246 70 75 computer
+3 307 662 131 desk
+72 411 182 187 chair
+243 384 152 200 chair
+461 377 137 84 chair
+577 336 57 85 chair
+615 323 80 44 chair
+77 442 75 82 chair arm
+175 416 43 30 chair arm
+460 381 60 61 chair arm
+203 539 66 59 chair arm
+408 475 90 58 pad
+383 157 38 60 sign
+612 309 172 163 man
+614 346 176 112 sweater
+591 255 62 48 computer
+438 337 22 17 mouse
+645 423 27 24 hand
+669 426 25 27 pen
+635 187 41 122 lighting
+17 433 61 94 wires
+324 405 474 192 desk
+588 248 60 57 monitor
+548 255 42 56 monitor
+462 257 53 60 monitor
+349 265 78 65 monitor
+28 285 99 74 monitor
+196 273 82 78 monitor
+68 425 200 170 chair
+683 306 69 49 hair
+179 264 110 130 computer
+21 291 661 100 desk
+525 265 113 134 man
+569 306 46 58 bookbag
+519 266 100 126 man
+545 299 58 70 shirt
+603 300 188 177 man
+615 354 176 112 shirt
+14 260 424 141 computers
+36 250 665 136 table
+644 251 91 99 man
+582 242 70 68 computer
+511 245 270 214 man
+10 23 765 574 room
+383 162 37 56 sign
+5 9 677 504 wall
+483 332 315 107 light
+314 400 474 195 table
+61 393 341 193 chairs
+694 3 104 314 window
+2 2 794 435 building
+78
+https://cs.stanford.edu/people/rak248/VG_100K_2/78.jpg
+13
+88 190 67 64 table
+128 137 40 16 computer
+132 105 33 25 monitor.
+58 116 30 27 monitor
+0 144 113 45 table
+96 32 79 59 screen
+18 77 15 11 sign
+17 58 27 32 panel
+44 146 43 9 keyboard
+89 149 5 5 mouse
+125 149 66 66 table
+1 205 61 50 chair
+55 237 6 19 leg
+79
+https://cs.stanford.edu/people/rak248/VG_100K_2/79.jpg
+15
+1 287 280 162 table
+249 285 63 164 chair
+189 298 61 150 chair
+107 325 88 124 chair
+535 269 45 42 rack
+221 97 34 167 curtain
+9 1 118 126 light
+149 283 449 165 floor
+301 301 165 35 rug
+407 270 19 14 cushion
+272 260 157 94 couch
+251 169 48 90 lamp
+488 152 76 151 fireplace
+0 37 340 281 wall
+222 111 106 126 window
+80
+https://cs.stanford.edu/people/rak248/VG_100K_2/80.jpg
+36
+152 1 41 90 cabinet
+194 2 39 99 cabinet
+102 0 53 119 cabinet
+52 3 60 118 cabinet
+196 196 75 49 cabinet
+201 227 37 100 cabinet
+231 223 36 76 cabinet
+115 236 38 133 cabinet
+1 0 51 28 cabinet
+113 235 41 144 cabinet
+0 186 54 48 kettle
+141 215 68 153 dishwasher
+106 137 50 62 coffee pot
+186 100 43 19 paper towel
+79 174 32 35 tea pot
+0 45 69 87 microwave
+0 185 52 51 stove
+307 0 31 70 picture
+302 78 36 65 picture
+105 143 51 59 coffee maker
+42 333 296 177 carpet
+143 213 60 158 dish washer
+1 166 122 330 stove
+79 175 34 34 teapot
+1 185 50 52 teapot
+0 21 68 107 microwave
+49 176 26 38 jar
+38 161 15 12 utensil
+50 149 15 24 utensil
+67 161 17 7 utensil
+65 154 16 10 utensil
+187 103 41 16 paper towels
+119 167 30 24 coffee pot
+43 332 295 178 rug
+0 302 339 208 floor
+0 222 102 49 stovetop
+81
+https://cs.stanford.edu/people/rak248/VG_100K_2/81.jpg
+18
+214 81 15 86 door
+209 78 21 90 cabinet
+202 77 14 54 door
+199 70 19 61 cabinet
+2 404 66 106 door
+0 395 69 115 cabinet
+146 311 31 130 door
+146 305 34 139 cabinet
+177 291 25 112 door
+174 286 31 120 cabinet
+195 268 34 106 door
+195 266 34 113 cabinet
+3 0 50 181 door
+0 0 56 190 cabinet
+161 57 23 113 door
+121 56 61 117 cabinet
+184 67 19 60 door
+181 62 26 66 cabinet
+82
+https://cs.stanford.edu/people/rak248/VG_100K_2/82.jpg
+33
+358 143 40 456 refrigerator
+359 144 37 388 door
+357 500 42 97 door
+23 374 92 12 dials
+14 322 107 28 stove top
+1 304 12 28 utensil crock
+2 278 19 29 utensils
+1 333 42 22 dishcloth
+19 326 98 26 stove top
+1 26 382 258 cabinets
+1 354 128 146 oven
+2 316 226 36 counter
+126 350 93 149 dishwasher
+0 493 293 105 tile floor
+22 374 90 14 black knobs
+0 353 128 149 stove
+269 349 104 33 sink
+287 404 81 194 washing machine
+266 274 40 64 coffee maker
+1 314 372 153 counter
+11 324 109 23 stove
+72 290 41 42 teapot
+1 330 42 22 dishcloth
+15 322 106 26 stove
+104 376 9 9 dial
+91 376 10 12 dial
+80 376 9 10 dial
+67 376 10 10 dial
+51 377 8 9 dial
+38 377 10 10 dial
+27 378 10 8 dial
+6 497 261 101 tile
+2 502 280 97 floor
+83
+https://cs.stanford.edu/people/rak248/VG_100K_2/83.jpg
+27
+41 354 101 65 art
+147 287 92 63 book
+389 103 327 61 computers
+720 127 60 115 lamp
+111 166 167 31 chairs
+3 170 29 35 card files
+452 0 5 8 light
+462 0 25 14 fire alarm
+287 295 117 107 books
+259 408 79 32 table
+611 106 32 51 tower
+511 137 39 21 shirt
+317 181 53 33 cord
+392 104 73 60 computer
+725 121 58 39 lampshade
+183 101 79 52 boy
+481 108 82 77 girl
+705 162 23 8 mouse
+5 114 50 74 catalog
+184 40 53 33 wall
+190 103 79 74 man
+373 121 65 81 person
+408 327 103 106 stack
+579 353 118 120 stacks
+487 108 64 44 woman
+33 101 53 39 shade
+107 108 52 43 monitor
+84
+https://cs.stanford.edu/people/rak248/VG_100K_2/84.jpg
+61
+152 74 322 443 doors
+54 211 179 205 flowers
+45 582 148 35 shelf
+300 417 172 72 pillow
+262 431 60 107 tassels
+390 558 254 67 tray
+509 495 58 87 glass
+424 489 59 81 glass
+580 46 64 271 mirror
+580 44 60 82 ornate design
+330 556 314 241 ottoman
+329 551 315 245 covering
+44 595 374 203 rug
+0 528 417 269 floor
+56 635 144 82 books
+15 521 629 275 floor
+39 518 151 102 books
+36 588 146 39 shelf
+52 588 128 35 shelf
+71 543 100 16 book
+33 552 143 28 book
+36 587 141 38 shelf
+40 562 81 26 book
+46 592 132 31 shelf
+45 585 139 39 shelf
+49 591 126 28 book
+66 643 121 54 book
+47 576 135 30 book
+43 592 139 26 shelf
+54 664 150 56 book
+56 660 148 22 book
+51 577 130 23 book
+38 587 147 28 shelf
+107 383 67 77 vase
+46 210 187 199 sunflowers
+568 31 75 285 mirror
+3 1 641 400 wall
+479 17 63 446 white curtain
+574 37 67 290 mirror
+81 19 76 336 curtain
+87 132 184 276 lamp
+4 352 56 136 book
+4 415 276 74 tabletop
+109 388 60 70 vase
+66 391 35 63 candle
+28 440 114 41 books
+0 419 279 363 table
+109 601 160 172 black wrought iron legs
+286 421 183 74 burgundy pillow
+246 390 396 268 seat
+88 137 175 111 shade
+296 422 175 77 pillow
+240 382 403 285 bed
+396 548 245 72 tray
+337 552 305 246 seat
+375 323 21 23 handle
+365 65 113 326 door
+0 4 82 314 wall
+93 125 172 328 lamp
+90 385 102 109 vase
+550 147 59 129 frame
+85
+https://cs.stanford.edu/people/rak248/VG_100K_2/85.jpg
+29
+553 354 36 24 apple
+476 309 181 160 table top
+29 135 72 107 flowers
+47 240 58 43 pot
+632 189 69 56 lampshade
+648 240 33 53 lamp
+115 61 66 189 blinds
+0 33 93 253 blinds
+54 326 10 13 knob
+28 339 16 14 knob
+47 282 82 187 cabinet
+0 317 75 210 cabinet
+435 209 66 49 reflections
+425 192 91 81 screen
+483 319 171 138 table top
+594 253 203 277 couch
+694 253 104 145 back
+408 192 120 90 television
+425 199 87 68 screen
+192 324 112 78 cushion
+150 246 168 196 chair
+596 259 199 261 sofa
+636 187 64 97 lamp
+623 267 78 50 table
+162 66 145 151 ladder
+8 217 302 311 cabinet
+37 143 53 107 plant
+524 351 75 32 tray
+472 318 177 212 table
+86
+https://cs.stanford.edu/people/rak248/VG_100K_2/86.jpg
+39
+68 185 96 158 person
+171 167 91 154 person
+181 168 85 149 man
+68 182 110 179 person
+79 167 102 91 person
+170 171 90 143 person
+211 170 64 113 person
+220 285 47 32 shoes
+157 200 230 169 floor
+75 77 116 113 window
+94 174 99 168 woman
+171 170 91 145 man
+196 232 55 75 pants
+218 31 53 40 light
+21 86 30 36 sign
+0 73 79 115 wall
+483 79 51 45 book
+396 31 120 324 man
+477 78 58 45 book
+389 29 119 340 man
+452 60 25 25 glasses
+307 231 24 26 shoes
+111 247 45 32 purse
+156 167 43 107 man
+179 168 79 146 man
+207 172 66 110 man
+156 162 35 34 head
+186 165 25 33 head
+213 160 31 37 head
+147 4 24 69 handle
+263 53 114 45 advertisement
+102 174 88 164 person
+108 171 39 25 hat
+103 168 86 106 person
+107 167 46 29 hat
+44 5 450 352 train
+42 18 437 313 subway
+58 23 358 302 train
+235 290 28 31 shoe
+87
+https://cs.stanford.edu/people/rak248/VG_100K_2/87.jpg
+21
+494 377 26 30 boy
+0 371 799 227 water
+276 306 41 70 man
+137 359 51 41 two people
+172 310 26 48 woman
+480 0 121 311 tree
+56 287 473 121 group of people
+376 295 423 83 rock
+407 318 26 35 man
+295 340 19 9 shorts
+496 379 27 35 swimming
+439 376 180 46 ripples
+2 0 796 354 trees
+23 0 698 192 sky
+202 316 33 36 boy
+147 338 270 46 rock
+199 303 23 17 tent
+0 3 797 336 background
+178 326 17 12 swimsuit
+87 287 32 44 man
+757 314 40 22 log
+88
+https://cs.stanford.edu/people/rak248/VG_100K_2/88.jpg
+82
+255 123 29 45 lamp
+260 126 24 23 shade
+239 161 55 19 top
+56 218 39 46 pillow
+32 197 122 133 chair
+145 112 8 24 book
+156 113 4 22 book
+140 28 7 23 book
+163 31 5 21 book
+168 116 4 20 book
+132 12 39 16 shelf
+143 68 30 17 shelf
+142 92 37 13 shelf
+148 151 30 15 shelf
+333 195 35 41 vase
+328 183 12 13 flower
+331 172 15 11 flower
+352 167 19 21 flower
+366 169 18 24 flower
+204 1 96 174 window
+111 132 11 18 trinket
+93 144 8 10 trinket
+69 144 13 16 trinket
+46 152 9 10 trinket
+23 143 13 20 trinket
+30 161 103 88 fireplace
+245 148 19 27 photo
+239 164 51 77 table
+241 159 49 21 top
+364 185 39 149 leaf
+444 45 24 87 leaf
+410 108 19 120 leaf
+399 188 27 141 leaf
+440 140 21 136 leaf
+367 182 11 17 tip
+443 43 10 18 tip
+410 108 19 24 tip
+442 140 14 26 tip
+398 183 10 28 tip
+200 2 105 172 curtains
+404 0 68 163 curtains
+366 44 98 293 botanical
+20 138 124 102 fireplace
+27 149 105 13 mantle
+48 54 44 70 picture
+22 139 118 96 fireplace
+258 124 24 47 lamp
+260 152 20 24 base
+327 185 46 63 dome
+238 209 253 65 coffee table
+133 160 106 101 chair
+26 140 103 90 fireplace
+49 218 57 49 velvet throw pillow
+122 0 68 198 shelves
+10 0 198 245 wall
+138 5 46 166 books
+236 154 64 98 table
+231 155 68 31 round top
+253 120 31 51 lamp
+199 2 105 179 window
+34 50 80 88 painting
+7 1 152 234 wall
+21 148 150 131 fireplace
+309 32 76 84 painting
+299 2 108 212 wall
+195 5 115 177 window
+127 160 135 112 chair
+325 191 55 51 vase
+257 148 224 91 sofa
+264 152 135 61 pillows
+55 220 54 48 pillow
+29 187 135 151 chair
+127 4 78 184 bookshelf
+135 8 43 152 books
+357 30 126 305 plant
+225 155 79 92 table
+210 11 100 177 window
+256 115 31 67 lamp
+233 155 63 87 end table
+242 144 28 35 photo
+241 142 23 33 frame
+225 156 70 95 end table
+89
+https://cs.stanford.edu/people/rak248/VG_100K_2/89.jpg
+59
+399 157 96 174 unit
+698 235 61 101 speaker
+532 113 241 170 television
+236 128 103 65 flowers
+249 157 81 87 vase
+5 151 37 68 dresser
+22 237 87 120 lamp
+556 127 212 178 television
+361 59 94 87 lamp top
+370 397 215 119 zebra skin
+633 417 80 74 floor
+337 269 69 43 lamp base
+437 257 61 107 legs
+485 225 261 139 top stand
+260 171 29 75 vase
+350 398 288 110 rug
+254 341 88 43 floor
+9 145 17 98 lamp
+2 141 42 80 lampshade
+347 56 75 267 lamp
+350 47 90 90 lampshade
+22 225 229 119 table
+386 149 117 212 bookcase
+353 270 43 42 base
+356 15 74 324 lamp
+370 389 288 126 carpet
+543 136 208 138 television
+1 364 395 165 chair
+513 147 30 34 speaker
+761 174 34 45 speaker
+510 147 39 37 speaker
+763 174 36 39 speaker
+332 3 466 357 wall
+264 179 24 50 vase
+261 178 30 49 vase
+251 139 48 29 flowers
+30 210 61 30 dvd's
+2 146 42 88 lamp
+2 207 200 142 table
+236 214 71 24 shelf
+222 243 104 36 shelf
+222 284 107 42 shelf
+4 144 40 94 lamp
+1 206 200 144 cabinet
+75 219 117 110 door
+1 245 77 100 door
+568 144 160 146 television
+324 395 321 133 rug
+7 256 778 266 floor
+7 366 376 164 couch
+12 206 186 142 case
+2 146 37 90 lamp
+71 182 97 39 radio
+4 211 194 129 cabinet
+229 110 77 113 flowers
+223 213 107 104 table
+226 213 103 112 table
+341 57 101 253 lamp
+567 150 170 146 television
+90
+https://cs.stanford.edu/people/rak248/VG_100K_2/90.jpg
+74
+639 241 107 100 television
+629 324 132 90 stand
+559 298 32 48 amp
+587 210 50 139 guitar
+591 216 43 135 guitar
+255 53 45 113 chandelier
+153 207 81 61 cabinets
+147 181 64 34 sink
+25 105 107 128 stenciling
+286 215 69 49 chair
+225 213 122 75 table
+356 323 293 151 coffee table
+33 262 759 264 floor
+641 253 101 84 tv
+225 413 160 119 bench
+193 245 308 183 couch
+356 332 299 165 table
+420 192 107 128 bike
+572 230 75 154 guitar
+208 108 61 43 shelf
+409 198 133 128 bicycle
+350 6 445 398 wall
+647 253 116 98 television
+630 341 122 69 stand
+193 253 302 171 sofa
+592 215 55 157 electric guitar
+228 221 116 58 dining table
+257 131 52 43 ceiling light
+156 178 46 26 faucet
+132 137 72 52 window
+385 346 26 29 television remote
+371 346 293 168 coffee table
+228 402 165 130 footstool
+307 221 37 37 blanket
+289 207 52 58 chair
+222 399 165 133 footrest
+412 192 125 136 racing bicycle
+595 218 33 141 guitar
+27 103 116 116 wall decoration
+1 21 154 331 wall
+139 114 69 68 kitchen window
+137 110 72 36 window shade
+313 381 485 151 rug
+1 2 711 94 ceiling
+1 2 797 529 living room
+23 261 772 269 flooring
+587 218 40 130 guitar
+650 253 93 97 tv
+374 328 267 129 coffee table
+256 53 42 112 light
+141 113 68 74 window
+145 196 68 18 sink
+267 2 530 405 wall
+148 194 77 16 sink
+147 205 78 66 cabinet
+202 112 66 40 cabinet
+206 180 74 84 stove
+192 248 312 162 couch
+188 248 315 148 mattress
+192 251 311 162 futon
+190 250 190 162 frame
+633 331 123 81 stand
+646 253 96 94 television
+410 208 120 129 bicycle
+593 219 36 132 guitar
+564 301 34 50 amplifier
+230 408 158 123 ottoman
+364 330 276 168 coffee table
+365 327 274 149 table
+404 384 215 68 shelf
+9 8 584 93 ceiling
+627 336 141 74 stand
+233 392 167 133 ottomon
+556 208 90 183 guitar
+91
+https://cs.stanford.edu/people/rak248/VG_100K_2/91.jpg
+5
+573 37 62 166 lamp
+261 49 40 93 lamp
+572 43 66 213 lamp
+255 88 24 22 shade
+271 41 27 15 shade
+92
+https://cs.stanford.edu/people/rak248/VG_100K_2/92.jpg
+18
+385 98 114 168 mug
+407 112 87 52 coffee
+293 15 110 190 glass
+392 88 107 167 mug
+12 147 62 97 fork
+14 150 123 207 napkin
+47 132 73 202 knife
+12 142 112 217 paper napkin
+295 245 135 67 spoon
+8 138 432 215 placemat
+94 136 249 168 bowl
+42 162 332 171 plate
+205 247 55 39 banana
+244 214 58 58 strawberry
+174 175 87 81 blueberries
+205 240 53 48 banana
+389 101 109 142 mug
+12 147 74 98 fork
+93
+https://cs.stanford.edu/people/rak248/VG_100K_2/93.jpg
+30
+175 219 54 73 shot glass
+1 105 333 384 table
+239 198 46 86 glass
+196 139 39 132 glass
+99 69 28 76 glass
+204 86 27 57 glass
+218 112 31 44 glass
+274 77 19 99 glass
+122 107 28 49 glass
+289 109 36 69 glass
+311 106 22 86 glass
+6 89 29 66 glass
+26 127 33 55 glass
+185 68 27 88 glass
+301 173 32 66 glass
+3 129 35 119 glass
+42 150 53 137 glass
+14 206 49 90 glass
+2 107 331 391 table cloth
+253 301 31 71 spoon
+231 292 34 82 knife
+45 268 209 144 plate
+63 329 147 73 napkin
+20 307 38 73 small fork
+29 302 47 91 large fork
+286 278 47 38 large fork
+289 298 42 33 small fork
+33 2 261 261 centerpiece
+185 121 21 38 long stem
+269 143 26 34 long stem
+94
+https://cs.stanford.edu/people/rak248/VG_100K_2/94.jpg
+40
+137 202 128 63 eggs
+291 237 45 50 grape
+307 53 47 50 building
+224 57 56 61 building
+307 87 47 50 building
+291 237 62 53 grape
+297 201 48 35 grape
+269 113 89 73 shrimp
+261 88 70 154 shrimp
+298 88 48 58 tail
+246 82 99 90 shrimp
+168 58 99 86 fruit
+129 57 275 283 meal
+103 18 380 351 plate
+28 22 135 270 knife
+91 43 300 301 plate
+255 79 63 160 shrimp
+110 29 320 336 plate
+260 200 90 92 grapes
+98 36 317 300 plate
+202 97 62 47 orange
+78 18 345 334 plate
+127 200 141 77 egg
+438 33 37 99 liquid
+416 4 80 172 glass
+18 20 480 349 napkin
+81 50 354 290 plate
+133 68 221 235 olives
+105 24 302 326 plate
+395 280 43 82 placemat
+8 19 484 353 table
+36 30 129 248 knife
+272 290 56 40 plate
+464 23 35 13 ice
+394 19 105 115 glass
+324 114 61 114 lettuce
+115 209 158 70 eggs
+313 77 47 48 grapes
+128 26 291 312 plate
+182 70 90 57 orange
+95
+https://cs.stanford.edu/people/rak248/VG_100K_2/95.jpg
+24
+220 62 33 35 building
+241 92 40 44 building
+241 75 40 44 building
+267 95 82 125 glass
+114 17 77 167 glass
+49 43 52 148 glass
+26 326 62 172 fork
+51 207 296 276 dinner plate
+56 210 295 279 plate
+49 213 309 278 trim
+75 284 258 127 napkin
+171 210 121 261 candy bag
+147 253 105 50 string
+179 203 105 279 wrapper
+90 197 147 19 fork
+83 181 140 31 spoon
+17 324 74 174 salad fork
+2 1 352 497 table
+179 27 91 151 glass
+101 21 105 164 glass
+50 42 62 151 glass
+307 263 49 92 knife
+327 253 28 61 knife
+4 5 349 492 tablecloth
+96
+https://cs.stanford.edu/people/rak248/VG_100K_2/96.jpg
+18
+208 399 111 63 napkin
+168 341 67 64 mug
+7 339 367 141 table
+27 170 32 86 candle
+216 353 21 27 handle
+240 405 60 48 knife
+227 403 54 52 fork
+47 181 174 161 chair
+261 407 32 31 spoon
+39 403 173 58 plate
+210 140 164 191 piano
+128 336 51 63 cup
+22 272 51 149 holder
+83 343 66 64 jar
+14 249 67 184 candle stick
+27 143 29 27 flame
+90 231 74 86 pattern
+212 291 162 71 floor
+97
+https://cs.stanford.edu/people/rak248/VG_100K_2/97.jpg
+22
+0 161 181 171 newspaper
+8 149 116 67 magazine
+143 161 85 93 butter
+63 13 174 185 bag
+194 118 84 88 lid
+224 181 165 155 dish
+263 218 49 53 bread
+310 223 49 53 bread
+381 142 60 71 mug
+358 125 89 92 saucer
+377 208 24 123 knife
+381 269 20 61 handle
+401 213 19 114 knife
+216 133 228 203 napkin
+145 0 68 122 bag
+1 0 446 336 table
+231 43 104 74 chocolate
+393 147 41 42 coffee
+230 9 61 37 cheese
+206 1 146 122 container
+353 1 92 80 press
+341 6 94 93 coaster
+98
+https://cs.stanford.edu/people/rak248/VG_100K_2/98.jpg
+24
+44 156 125 127 pizza slice
+0 165 230 157 plate
+280 80 219 122 deep dish pizza
+275 99 225 140 pan
+102 52 60 93 water
+100 27 63 120 cup
+67 76 33 57 salt
+61 53 42 83 shaker
+181 31 177 71 cloth napkin
+44 188 101 96 melted cheese
+207 170 74 133 fork
+199 175 156 129 napkin
+211 159 115 132 butterknife
+309 165 173 127 spatula
+34 83 35 55 pepper
+28 58 45 84 shaker
+1 0 499 373 table
+182 0 134 25 deep dish pizza
+181 4 140 40 pan
+143 5 39 53 orange juice
+141 0 41 70 glass
+0 135 72 67 menu
+28 53 76 90 shakers
+242 127 257 136 cardboard
+99
+https://cs.stanford.edu/people/rak248/VG_100K_2/99.jpg
+44
+430 165 72 78 building
+430 135 72 78 building
+255 354 39 64 glass
+229 349 32 52 glass
+3 6 633 259 red top wall
+249 79 89 159 windows
+24 94 130 97 pictuers on the wall
+289 225 88 36 table
+507 220 18 44 burning caddle
+196 30 42 233 door
+504 220 20 74 lit white candle
+509 223 10 10 flame
+457 254 35 31 empty  wine glasses
+406 272 232 46 round table
+505 274 17 21 candle stand
+551 287 82 152 seat
+245 80 106 163 arched window
+301 128 37 35 window pend
+209 400 96 36 dinner plate
+312 338 40 75 white napkin
+480 92 133 104 picture
+72 412 78 33 silver utensils
+288 232 94 61 multi-colored table cloth
+230 348 64 85 glasses
+505 218 24 60 candle
+510 275 11 15 candle stand
+512 220 9 14 flame
+207 138 195 170 sun shine
+245 218 45 84 seat
+292 226 99 56 table cloth
+305 143 32 67 window pends
+417 270 140 118 table cloth
+508 274 15 20 candle stand
+226 340 66 73 wine glasses
+226 53 159 257 doors
+3 4 633 243 wall
+23 55 592 174 paintings
+308 329 45 87 napkin
+145 349 66 70 napkin
+36 322 76 80 napkin
+103 314 70 59 napkin
+276 292 52 68 napkin
+514 264 32 40 napkin
+395 251 243 155 table
+100
+https://cs.stanford.edu/people/rak248/VG_100K_2/100.jpg
+41
+8 370 138 93 wall
+7 259 122 90 wall
+81 77 176 56 logo
+3 250 177 212 x box console
+187 255 129 79 x box controller
+43 23 255 219 grey computer monitor
+88 84 169 39 halo  logo
+236 349 91 58 gaming adapter
+173 217 74 13 monitor buttons
+139 131 72 44 starting menu
+30 292 58 44 green logo
+191 255 109 74 black controller
+227 261 30 18 small logo
+6 250 166 126 this
+187 251 117 76 this
+54 30 234 222 this
+79 61 185 141 this
+3 255 144 127 this
+3 256 166 126 this
+11 256 178 125 gaming system
+31 295 72 38 circle
+4 5 345 183 wall
+49 21 250 243 computer monitor
+73 57 198 152 halo game
+32 304 56 23 logo
+8 254 147 184 x box
+192 259 123 60 controller
+252 261 28 12 buttons
+234 257 19 17 logo
+191 247 100 70 controller
+18 241 152 218 xbox
+9 243 135 210 xbox
+198 255 112 78 remote
+76 67 180 122 screen
+6 260 161 186 xbox
+194 250 101 63 controller
+64 64 212 143 screen
+1 263 171 192 xbox
+0 246 313 213 system
+200 389 45 61 table
+16 258 143 190 xbox
