@@ -1,2 +1,2 @@
 # pmoi
-The module tried to Predict Missing Objects in Images
+The module tries to Predict Missing Objects in Images.
