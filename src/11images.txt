@@ -1,0 +1,448 @@
+1
+https://cs.stanford.edu/people/rak248/VG_100K_2/1.jpg
+40
+119 338 274 192 shade
+77 328 714 262 street
+243 489 52 26 sneakers
+479 315 74 98 car
+514 366 23 15 headlight
+318 319 28 34 bike
+622 234 87 327 tree trunk
+721 339 67 170 back
+421 91 79 339 clock
+118 13 88 182 sign
+1 2 218 536 building
+241 289 59 101 shirt
+708 342 91 174 car
+271 268 20 12 glasses
+574 327 32 143 parking meter
+391 481 46 34 shoes
+245 384 38 118 pants
+238 249 60 262 man
+356 296 89 97 jacket
+382 369 54 128 pants
+372 264 75 251 man
+77 331 722 266 sidewalk
+334 319 29 35 bike
+521 271 265 185 work truck
+358 283 440 233 street
+369 264 82 250 guy
+399 288 11 9 chin
+529 298 233 134 van
+0 1 134 533 wall
+321 319 40 35 bikes
+249 0 176 360 tree
+368 283 32 43 arm
+384 306 37 66 shirt
+537 63 41 430 lamp post
+190 0 606 557 trees
+343 318 50 189 sidewalk
+362 264 97 248 man
+230 251 72 264 man
+435 295 340 218 road
+602 4 173 148 windows
+2
+https://cs.stanford.edu/people/rak248/VG_100K/2.jpg
+27
+463 141 43 103 walk sign
+359 362 72 81 backpack
+0 146 73 223 tree
+58 155 61 201 tree
+110 195 83 163 tree
+0 492 366 107 crosswalk
+645 60 99 179 window
+742 71 57 159 window
+644 259 105 114 window
+746 259 52 108 window
+628 64 26 179 window
+346 327 86 76 car
+288 212 28 131 street light
+339 533 132 37 sneakers
+415 403 33 69 bike
+471 193 31 15 "walk"
+384 343 415 247 sidewalk
+547 4 251 384 building
+230 287 22 67 sign
+239 347 136 126 car
+324 320 142 255 man
+3 321 372 279 road
+9 147 198 211 trees
+377 37 122 429 street light
+165 13 282 298 building
+405 34 78 438 pole
+227 284 32 26 lights
+3
+https://cs.stanford.edu/people/rak248/VG_100K/3.jpg
+52
+456 266 98 79 office phone
+83 202 17 24 outlet
+42 207 22 29 outlet
+212 340 88 139 cpu
+129 233 510 244 desktop
+2 269 139 201 filing cabinet
+48 423 94 42 drawer
+574 270 65 134 computer case
+465 268 38 61 wireless phone
+465 277 73 66 office phone base
+42 190 89 48 multiple outlet
+43 208 26 33 plug
+66 207 15 21 plug
+85 200 16 25 plug
+106 200 17 23 plug
+585 98 55 109 hair
+593 166 34 17 chain
+137 408 52 58 cable
+110 340 390 139 floor
+150 387 84 40 cable
+456 266 98 79 telephone
+168 273 175 48 grey keys
+159 119 149 155 monitor
+212 340 88 139 computer tower
+129 233 510 244 table
+2 269 139 201 cabinet
+2 321 128 123 drawer
+574 270 65 134 bag
+346 296 29 28 mouse
+42 190 89 48 pluged
+544 89 94 149 girl
+417 63 82 50 monitor
+3 6 258 265 wall
+585 98 55 109 black hair
+405 323 53 16 pen
+130 235 506 241 desk
+168 273 175 48 keyboard
+304 30 217 97 wall
+538 174 101 68 white top
+570 333 69 81 strap
+243 81 300 204 dividing screen
+125 71 513 402 cubicles
+210 2 61 44 picture
+413 56 101 57 computer
+421 105 99 95 picture
+59 211 81 89 cables
+209 3 341 45 photos
+3 2 552 65 wall
+18 353 81 44 handle
+125 376 141 95 floor
+585 169 32 15 necklace
+532 156 52 52 desk
+4
+https://cs.stanford.edu/people/rak248/VG_100K/4.jpg
+24
+407 284 72 27 padding
+298 225 41 48 color
+485 4 154 303 window
+367 0 120 327 door
+360 160 279 187 patio
+575 38 22 38 color
+227 272 23 20 cloths
+408 285 232 64 seats
+423 288 26 17 colour
+360 1 280 300 curtains
+387 214 92 157 chair
+2 321 629 157 carpet
+1 290 631 188 floor
+0 337 67 141 desk
+105 210 260 172 couch
+211 251 52 57 teddy bear
+413 242 227 51 table top
+183 222 111 86 pillow
+103 274 265 107 frame
+412 238 224 200 table
+362 0 149 282 drape
+0 230 92 129 picture
+216 62 48 150 lamp
+457 165 57 25 box
+5
+https://cs.stanford.edu/people/rak248/VG_100K/5.jpg
+34
+301 448 49 88 cables
+147 212 567 370 area
+347 453 63 127 cpu
+37 253 43 77 windows
+35 148 38 73 windows
+607 259 190 185 colour
+170 453 19 40 color
+141 351 408 242 chairs
+72 3 119 39 light
+429 88 370 142 books
+144 358 174 240 chair
+194 278 101 101 computer monitor
+347 453 63 127 computer
+3 8 40 529 door
+2 490 349 108 floor
+389 9 404 519 wall
+186 20 180 57 air conditioner
+297 325 93 50 printer
+425 132 372 102 shelves
+49 322 88 103 railing
+42 41 91 387 window
+552 430 162 138 cork-board
+120 357 317 107 desk
+311 378 92 35 fax machine
+240 401 116 26 keyboard
+377 348 166 251 chair
+44 148 87 90 window
+625 468 52 68 paper
+145 3 245 528 wall
+0 2 795 597 room
+52 328 81 91 balcony
+380 430 148 167 clothes
+421 529 113 69 heater
+428 82 368 152 shelf
+6
+https://cs.stanford.edu/people/rak248/VG_100K/6.jpg
+30
+487 75 104 90 drinking bottle
+476 77 122 307 granite
+685 331 113 265 lid
+747 485 29 26 handle
+255 76 57 51 liquid
+0 2 300 521 bar stool
+253 75 60 47 apple
+245 14 68 114 counter
+476 77 122 307 bottle
+111 137 56 73 fork
+38 102 238 117 plate
+0 2 300 521 chair
+599 73 187 116 container
+192 0 59 98 glass
+394 2 212 126 bowl
+629 101 144 158 bag
+2 11 797 520 counter
+676 22 122 76 pan
+349 48 133 134 bag
+353 102 117 78 food
+339 233 126 119 apple
+208 217 55 59 packet
+275 0 54 78 glass
+600 56 147 46 cover
+593 200 79 33 utensil
+7 268 55 130 leg
+138 311 83 203 leg
+85 175 20 14 crumb
+209 154 8 11 crumb
+484 256 108 112 logo
+7
+https://cs.stanford.edu/people/rak248/VG_100K/7.jpg
+45
+721 527 50 56 book
+6 316 144 268 lady
+5 320 28 49 hair
+97 549 73 44 pants
+69 357 99 45 papers
+369 549 72 47 cpu
+184 526 257 73 floor
+277 15 180 249 wall
+525 393 85 65 telephone
+583 515 213 77 desk
+193 354 36 58 juice bottle
+266 361 34 26 sticky note
+222 255 170 130 monitor
+3 34 278 207 white board
+20 65 99 164 writing
+263 424 66 32 headphones
+6 309 256 287 woman
+119 436 35 12 pen
+92 421 90 38 book
+409 428 39 17 mouse
+243 392 143 37 keyboard
+56 398 559 110 desk
+1 4 281 373 wall
+190 534 10 17 bracelet
+174 529 34 29 wrist
+231 413 150 13 wrist pad
+379 428 77 25 mousepad
+179 408 49 24 cd player
+459 326 46 77 cereal
+15 384 13 22 earring
+479 361 28 70 water bottle
+385 477 36 88 cables
+456 388 26 38 mug
+589 481 178 83 laptop
+586 481 184 73 lid
+202 356 15 10 lid
+2 407 196 183 sweater
+489 3 309 401 window
+555 450 46 45 tape dispenser
+87 530 225 69 blue jeans
+1 550 300 49 chair
+484 380 21 22 label
+484 431 49 39 calculator
+419 418 170 98 book
+389 370 43 34 three hole punch
+8
+https://cs.stanford.edu/people/rak248/VG_100K/8.jpg
+41
+377 513 40 48 color
+704 288 81 27 bag
+142 167 26 52 cup
+719 472 44 58 mug
+602 536 196 63 front
+297 270 126 123 monitor
+222 384 117 96 sleeves
+369 495 148 104 drawers
+666 550 74 42 cd
+580 402 219 191 desk
+446 398 51 75 coffee mug
+334 400 48 47 hand
+282 383 155 64 keyboard
+232 322 28 26 glasses
+115 375 230 225 shirt
+171 254 40 31 dish
+126 271 113 131 cpu
+699 135 97 73 picture
+596 0 203 434 wall
+117 286 266 312 man
+520 444 22 35 stapler
+27 329 544 267 desk
+672 285 127 46 papers
+0 215 207 36 shelf
+446 398 51 75 cup
+364 495 148 89 drawer
+588 300 193 182 bulletin board
+585 315 177 129 papers
+666 290 66 15 files
+249 347 51 63 computer speaker
+229 360 29 23 chin
+459 315 91 142 folder
+474 337 60 60 papers
+2 32 160 93 books
+421 426 35 29 mouse
+86 154 58 64 book
+594 554 189 45 drawer
+208 510 158 89 pants
+10 471 152 127 chair
+434 391 67 85 coffee mug
+3 2 227 261 shelves
+9
+https://cs.stanford.edu/people/rak248/VG_100K/9.jpg
+42
+55 415 89 39 mouse pad
+5 387 162 92 desk
+570 93 69 151 outside
+346 84 91 143 blinds
+354 83 92 157 window
+69 339 100 85 posters
+261 260 178 93 desk
+495 223 29 58 chair
+4 1 635 477 room
+209 7 331 88 lights
+153 284 101 146 chair
+126 281 24 39 bottle
+71 280 169 65 desk
+351 81 286 173 windows
+543 243 54 50 computer
+26 323 156 148 wall
+286 210 65 59 monitor
+425 297 36 52 bin
+70 3 569 91 ceiling
+22 135 66 104 corkboard
+168 138 97 225 shelves
+197 216 59 43 books
+542 277 50 18 keyboard
+503 241 135 60 desk
+410 382 80 43 book
+212 26 87 33 lights
+415 9 99 40 lights
+322 69 61 25 lights
+472 61 62 27 lights
+96 221 106 76 monitor
+3 0 351 368 wall
+6 286 634 194 floor
+388 367 250 112 desk
+236 120 27 38 baby
+253 277 56 74 tower
+251 247 184 42 desk
+298 286 128 59 cables
+562 127 76 127 building
+564 73 76 182 windows
+427 372 68 40 papers
+231 408 14 16 wheels
+151 131 87 17 tube
+10
+https://cs.stanford.edu/people/rak248/VG_100K/10.jpg
+41
+231 543 23 28 charger
+142 142 105 145 board
+558 352 116 140 back
+460 357 96 41 papers
+456 401 95 51 papers
+460 387 103 16 shelf
+504 450 45 32 papers
+486 439 58 18 shelf
+510 471 58 37 shelf
+3 2 796 530 wall
+142 142 105 145 picture frame
+161 562 77 18 cable
+576 270 128 149 man
+532 354 146 216 coat
+558 352 157 203 chair
+423 151 174 358 bookshelf
+459 327 127 18 shelf
+57 441 36 41 cup
+0 381 314 162 papers
+354 435 97 126 cpu
+77 472 721 126 floor
+422 436 89 122 cpu
+22 488 99 48 headphones
+0 368 472 231 desk
+462 273 127 67 books
+579 122 25 62 ostirch
+581 125 24 64 ostrich
+267 372 21 41 bottle
+280 277 147 140 computer
+609 315 190 101 desk
+657 293 80 63 computer screen
+649 278 105 119 computer
+586 306 115 105 shirt
+647 282 107 97 monitor
+305 386 130 35 keyboard
+217 548 65 36 outlet
+2 395 200 204 table
+278 280 129 113 monitor
+314 295 86 73 screen
+316 308 61 32 panes
+158 157 81 117 corkboard
+11
+https://cs.stanford.edu/people/rak248/VG_100K/11.jpg
+39
+26 14 694 541 it
+631 5 159 128 building
+485 3 314 183 window
+6 385 48 127 cpu
+602 158 197 129 table
+772 120 27 86 pot
+761 113 38 32 flowers
+350 112 171 41 clothing
+246 488 285 104 legs
+399 250 147 191 cabinet
+26 20 741 552 scene
+244 186 283 390 chair
+16 16 232 211 computer
+10 285 164 133 box
+485 3 314 183 sun
+6 173 38 45 mug
+6 8 44 170 wall
+236 181 39 24 mouse
+621 153 67 46 bowl
+772 120 27 86 plant
+761 113 38 32 plant
+230 181 74 26 mouse pad
+291 145 30 39 cup
+17 154 588 109 desk
+45 53 137 83 monitor
+159 341 440 151 floor
+232 174 37 35 mouse
+609 177 64 31 plate
+350 157 89 54 bag
+612 182 188 90 desk
+8 375 68 158 computer tower
+163 452 22 48 lint
+24 380 99 78 bag
+150 200 39 14 keys
+314 233 97 48 arm rest
+479 155 121 77 paperwork
+528 12 221 130 blinds
+87 177 148 50 keyboard
+744 107 49 43 plant

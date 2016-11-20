@@ -1,0 +1,265 @@
+1
+https://cs.stanford.edu/people/rak248/VG_100K_2/1.jpg
+262
+421 57 82 139 the clock is green in colour
+194 372 182 109 shade is along the street
+241 491 61 30 man is wearing sneakers
+617 377 36 36 cars headlights are off
+322 298 41 49 bikes are parked at the far edge
+122 14 84 178 A sign on the facade of the building
+624 236 96 332 A tree trunk on the sidewalk
+238 247 69 270 A man in a red shirt
+150 495 451 100 A brick sidewalk beside the street
+711 345 82 179 The back of a white car
+225 243 84 266 a man is wearing glasses
+576 308 32 174 a parking meter is on the sidewalk
+320 301 42 56 bicycles are in the background
+235 244 67 272 a man wears grey shoes
+378 270 77 259 a man has brown shoes on
+247 256 54 276 A man dressed in a red shirt and black pants.
+383 272 65 240 A man wearing a gray jacket and gray pants.
+325 320 34 48 A bicycle parked on the sidewalk.
+541 277 252 187 A white work truck parked on the street.
+758 348 37 154 A white car parked on the street.
+236 248 68 274 guy wearing a red shirt
+124 7 80 192 black sign on front of building
+317 310 49 48 bicycles on the sidewalk
+575 312 30 161 parking meter on the sidewalk
+367 263 86 257 guy holding hand to his chin
+238 251 85 154 he has an orange tshirt
+375 486 68 18 he has brown shoes
+533 257 203 168 it is a white van
+377 257 72 34 he has raised his chin
+8 192 93 28 it is a wall made of grey tiles
+234 238 66 182 man is wearing red tshirt
+361 260 88 50 man is holding his chin
+309 303 69 62 bikes have been parked near a tree
+13 286 93 75 building is made of bricks
+384 472 69 67 man is wearing brown shoes
+425 73 89 122 clock is green in colour
+328 328 37 42 bikes are packed near the trees
+372 274 67 57 man has raised his arm
+236 252 64 262 man wearing a red shirt
+370 264 81 248 man wearing a grey shirt
+418 63 89 360 tall green clock
+531 278 252 178 white truck parked at the curb
+321 314 38 43 bicycle chained to a pole
+389 260 56 91 man is holding his chin
+393 299 70 114 man has a grey jumper
+262 252 51 48 man is wearing glasses
+580 327 44 162 lamp post are along the road
+237 257 72 264 the man wears a red t shirt
+372 267 88 252 the man wears grey pants
+265 168 121 99 trees are seen in the background
+372 257 81 256 the man wears a grey hoodie
+331 526 307 72 the street is clearly clean
+580 314 25 170 a parking meter is on the street
+484 197 234 358 trees line up the street
+235 248 77 269 a man in glasses
+318 320 40 38 bicycles are seen in the bckground
+234 2 564 560 trees line the sidewalk
+80 302 710 297 sidewalk is made of bricks
+295 285 502 242 cars are parked along the edge of the street
+575 322 29 152 parking meter has an orange top
+237 250 64 268 guy is wearing black pants
+360 258 102 265 A man in a gray hoodie
+201 2 315 378 Trees with sparse foilage
+520 266 262 197 A white Ford utility truck
+504 1 294 328 A tall brick building with many windows
+637 217 73 328 trees are next to were they are standing
+316 310 59 46 bikes have been parked near the road
+404 155 84 81 white building is at the back
+135 176 32 24 two lights have been on
+397 347 56 64 man has hands in pocket
+310 326 60 30 bikes are parked next to a tree
+172 226 21 42 building is painted white
+277 155 68 77 tree has no leaves
+314 291 62 84 bikes are parked on the far end
+568 324 35 157 lamp stands are along the road
+724 427 34 81 car has a black tire
+615 377 41 37 headlights of the car are off
+14 336 77 75 building has a white paint
+391 338 56 54 man has hand on pocket
+316 545 43 28 side walk is made of bricks
+129 172 49 37 two lights are on
+225 239 221 182 two men are talking
+391 250 50 176 one man is wearing grey jumper
+430 111 67 157 clock is painted green
+533 271 203 168 white van is parked near the road
+560 83 110 189 tree has shadows on it
+534 291 222 116 white vehicle has been parked
+132 175 42 27 two lights are on on the building
+402 70 102 114 a clock is next to were the men are standing
+701 186 81 64 a brown building opposite were the men are standing
+304 266 40 54 a red car is at the back
+576 329 43 154 electric post near the men
+252 472 37 64 man is wearing sneakers
+242 391 57 97 man is wearing black pants
+274 262 24 24 man is wearing glasses
+243 289 64 121 it is an orange tshirt
+723 373 73 104 a white car parked
+40 221 76 260 a white brick wall
+249 104 35 37 it is a blue sky
+375 473 91 59 man has brown shoes
+717 346 80 196 White car parked by curb
+224 216 53 44 White canopy on brick building
+430 220 364 101 Row of trees on right side of road
+301 282 34 32 Red vehicle parked next to curb
+362 255 105 275 Man wearing grey hoodie
+237 250 69 266 man in red shirt
+365 260 80 257 man in grey hoodie
+4 1 218 537 store inside white brick building
+531 295 245 164 parked white pickup truck
+573 324 34 154 older style coin fed parking meter
+157 238 454 313 the photo was taken during the day
+120 203 525 352 the day was sunny
+198 237 384 310 the men are on the sidewalk
+86 89 678 480 there is a big clock on the pole
+286 25 363 299 the trees do not have leaves
+468 304 329 146 cars are parked on the side of the road
+229 245 225 294 two men standing on the road
+434 69 72 369 a clock on a green pole
+5 124 100 381 a white brick wall
+116 165 62 37 two lights are lit
+330 308 49 77 bikes have been parked along the road
+183 486 82 42 drainage were the men are standing
+620 204 67 366 trees are along the road
+527 290 228 205 white car has been parked were they are standing
+128 167 33 40 overhead lights are glowing orange
+709 338 89 178 white car parked next to the sidewalk
+366 263 85 256 man is wearing grey sweatshirt
+94 496 370 102 tree is casting a shadow on the sidewalk
+421 61 92 368 tall green clock on the sidewalk
+367 255 94 267 A man with his fist at his mouth
+578 324 29 61 A parking meter near the curb
+537 264 260 156 A utility pick-up truck
+421 120 75 123 A clock face on a pole
+14 134 123 395 A white brick wall
+201 221 285 315 two men talking on sidewalk
+393 60 137 380 green clock
+520 248 243 229 white work truck parked at curb
+308 276 68 98 two bikes next to tree
+570 304 46 192 parking meter
+248 247 76 164 man has red top
+343 388 61 164 street is made of bricks
+578 313 49 157 lamp stand are along the road
+734 362 62 133 white car has been parked
+126 153 51 68 lights are on
+246 252 76 41 man has dark hair
+262 235 34 43 man is bald with little hair behind
+724 164 74 134 trees are along the road
+301 359 145 200 street is clean with no litter
+321 302 37 51 a bike in the distance
+239 254 67 257 a man in a red shirt
+365 261 90 254 a man with grey pants
+1 121 112 406 shadows of tree branches on a building
+533 278 235 170 white truck parked near the road
+222 238 240 296 two men talking to each other
+571 322 41 168 a parking meter
+316 305 51 75 a couple of bicycles
+230 280 76 108 a man's red shirt
+638 280 64 290 the trunk of a tree
+234 227 257 275 the man to the left is wearing glasses
+200 240 325 358 both of the people are men
+220 245 270 236 both men are wearing pants
+217 412 361 156 the side walk is made of bricks
+431 312 345 206  there are cars parked along the side walk
+242 245 56 268 Man standing on a sidewalk
+575 312 30 158 Parking meter at a curb
+422 63 69 360 Clock on a pole
+532 276 253 181 Truck parked at a curb
+255 164 90 98 Leafless tree branches
+218 254 113 284 The man has a red shirt.
+358 252 110 275 This person has a grey jacket on.
+404 77 117 114 This clock is green.
+524 259 205 201 A white truck.
+317 306 54 52 Bikes parked on the street.
+375 483 61 29 brown shoes are worn by the man
+241 283 52 108 man is wearing red tshirt
+757 482 33 48 shadow is below the car
+578 312 24 164 Parking meter located next to curb
+232 238 84 296 Man wearing red shirt
+533 49 66 452 Post light on sidewalk between two trees
+122 4 84 192 Sign on white building above entrance
+536 271 230 182 Construction truck parked by curb
+126 150 38 52 lights are on in the building
+377 272 106 129 man is wearing grey jumper
+418 106 82 72 the clock is green in colour
+374 492 64 35 man is wearing brown shoes
+319 315 43 40 bicycle parked on sidewalk
+236 246 67 269 man wearing red top and sneakers
+385 477 48 34 work boots
+574 323 32 146 metal parking meter
+532 280 248 176 white work truck
+123 12 77 178 sign on a building
+0 0 129 531 white brick building exterior
+534 51 51 441 a tall street lamp
+365 258 77 75 man touching his face
+367 266 90 249 man in jeans and gray jacket
+230 249 91 264 the man is glasses
+229 245 85 282 the man is in black pants
+568 316 44 158 the parking meter is on the sidewalk
+228 245 96 278 the man is in a red shirt
+131 162 50 48 two lights are switched on
+428 61 68 369 the clock pole is green
+242 468 61 59 the shoes are grey
+364 264 84 254 the man is in a grey hoodie
+485 176 218 378 trees are on the sidewalk
+222 246 232 275 two men stand on an urban sidewalk
+419 58 96 368 a large clock on a green post
+578 323 24 156 parking meter next to the curb
+535 295 233 149 white pick-up truck
+188 1 300 248 trees just beginning to bud in spring
+372 258 85 256 man with a gray, unzipped sweatchirt
+316 321 49 39 bicycle tied to a post
+712 332 86 179 back of a white sedan
+526 58 88 436 street lamp at curb side
+115 4 93 193 sign above building entrance
+0 0 795 595 there are two men conversing in the photo
+9 119 786 470 this is an outdoor picture
+0 122 793 476 there is a bicycle in the photo
+0 127 785 464 shadows are cast
+9 118 778 474 there are buildings in the photo
+0 128 792 465  green pole is in the photo
+29 126 760 451 some trees hAVE NO LEAVES
+0 120 792 469 the two men are talking
+0 119 794 474 a white truck is parked
+580 324 21 145 A parking meter with a yellow top
+509 4 276 557 the bottom of a tree
+365 256 98 260 a man in a grey sweater
+320 312 40 49 the tires from two bikes
+529 265 242 177 a white pick up truck
+427 59 65 365 a partially blocked green clock
+128 10 86 190 an unreadable store sign
+537 48 52 458 a brown street lamp with a glass top
+714 329 85 192 the rear of a white car
+233 251 218 270 two men having a conversation
+421 60 80 369 large ornate clock on sidewalk
+541 59 229 497 large moss covered tree
+530 276 256 181 truck with racks parked next to curb
+577 324 34 147 parking meter on sidewalk
+185 1 372 387 tree with sparse leaves
+533 58 56 437 street light on wooden pole
+0 3 113 529 brick wall of a building
+85 344 712 252 sidewalk paved with bricks
+472 284 19 30 yellow car in the road
+232 244 94 278 A man in a red long-sleeved shirt
+12 156 132 331 Shadows on side of building
+601 146 130 452 A tree on the sidewalk
+445 287 353 200 Cars parked on side of the street
+224 244 224 289 Two men talking to each other
+335 515 206 80 Pavers are on the ground
+230 461 74 66 Man wears sneakers
+256 163 91 99 A tree bare of leaves
+524 261 236 201 A white truck
+318 308 45 53 Bicycles are parked on the sidewalk
+235 253 212 268 two men standing facing one another
+318 313 46 44 bicycle parked on the sidewalk
+440 284 359 240 vehicles parked on the street
+573 321 27 149 parking meter on the curb
+4 3 213 530 white brick building with black sign
+422 63 82 366 tall green metal clock on a post
+532 59 64 433 tall metal light post
+252 1 530 558 trees lining the street
+81 315 709 281 brick sidewalk
+396 6 396 293 tall buildings with many windows

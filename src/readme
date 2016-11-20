@@ -1,0 +1,11 @@
+This folder contains all of the code for extracting image data from Visual Genome.
+
+This step was completed by Elan Markov.
+
+The files consist of the VG API, along with the "extract" source files.
+
+The sample files will generate a small snippet to understand the style of the output.
+
+The extract_full.py will extract all data from the JSON files. Note that the JSON files
+are very large, so they are not included. A download link is given in the extract_full.py
+comments. Significant memory (>20 GB) is needed to successfully process all JSON files.
