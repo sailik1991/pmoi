@@ -3,8 +3,7 @@ from gensim import models
 from copy import deepcopy
 from utilities import *
 
-pediction_set_size = 10
-window_size = 2
+window_size = 3
 
 def train(domain, shouldTrain, setNumber):
     '''
@@ -27,6 +26,7 @@ def train(domain, shouldTrain, setNumber):
     plans = open(domain+'/test'+str(setNumber)+'.txt').read().split("\n")
     list_of_objects = [[unicode(actn, "utf-8") for actn in plan_i.split()] for plan_i in plans]
     objects = model.vocab.keys()
+    #print "#objects = {0}".format( len(objects) )
     return [x for x in list_of_objects if len(x) > window_size*2], objects, model
 
 def train_and_test(domain, shouldTrain, setNumber):
@@ -44,7 +44,7 @@ def train_and_test(domain, shouldTrain, setNumber):
         incomplete_img, missing_idx = remove_random_objects(img)
         total += 1
         object_set, tentative_imgs = permuteOverMissingActions(objects, missing_idx, incomplete_img)
-        correct += predictAndVerify(model, missing_idx, tentative_imgs, object_set, img)
+        correct += predictAndVerify(model, missing_idx, tentative_imgs, object_set, img, window_size)
 
         # Print progress at certain time intervals
         if (itr*100)/len(list_of_objects) % 10 == 0:

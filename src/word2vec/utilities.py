@@ -7,9 +7,7 @@ import random
 import sys, getopt
 import random
 
-blank_percentage = 0.05
-pediction_set_size = 10
-window_size = 1
+pediction_set_size = 70
 
 """ NEEDED FOR TRAINING """
 def remove_random_objects(image):
@@ -47,7 +45,7 @@ def permuteOverMissingActions(objects, missing_idx, incomplete_img):
         tentative_imgs.append(getTentativeImage(o, incomplete_img, missing_idx))
     return object_set, tentative_imgs
 
-def predictAndVerify(model, missing_idx, tentative_imgs, object_set, img):
+def predictAndVerify(model, missing_idx, tentative_imgs, object_set, img, window_size):
     correct = 0
     window_subimg = []
     for ti in tentative_imgs:
@@ -55,7 +53,10 @@ def predictAndVerify(model, missing_idx, tentative_imgs, object_set, img):
     scores = model.score( window_subimg )
     best_indices = scores.argsort()[-1*pediction_set_size:][::-1]
     for j in best_indices:
-	if object_set[j] == img[missing_idx]:
-	    correct += 1
-	    break;
+        #print object_set[j][0]
+        #print img[missing_idx]
+	    if object_set[j][0] == img[missing_idx]:
+	        correct += 1
+	        break;
+    
     return correct
