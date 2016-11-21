@@ -10,10 +10,6 @@ API directly.
 
 This skips the Retrieve Data step that requires querying the VG server,
 which significantly cuts down on the runtime.
-
-JSON Files are too large and not included in this folder. Download from VG site.
-Region descriptors (phrases): http://visualgenome.org/static/data/dataset/region_descriptions.json.zip
-Objects: http://visualgenome.org/static/data/dataset/objects.json.zip
 """
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
@@ -61,6 +57,8 @@ def createPhrase(phraseData, phraseFile):
 		for reg in regions:
 			outFile.write("%d %d %d %d " % (reg['x'], reg['y'], reg['width'], reg['height']))
 			name = unidecode(reg['phrase'])
+			name = name.strip()
+			name = name.replace('\n', ' ')
 			outFile.write(name)
 			outFile.write('\n')
 		if(numImg % 100 == 0):
