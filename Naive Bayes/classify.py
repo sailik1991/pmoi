@@ -1,11 +1,3 @@
-'''
-    @Author : Hitendra Shukla
-    Finding Occluded Objects in Images using Naive Bayes
-	
-	''Chages
-'''
-
-
 class Image(object):
 
     def __init__(self, link, objects, no):
