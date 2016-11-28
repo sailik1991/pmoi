@@ -1,0 +1,3 @@
+This folder contains the images used for the human tests. The original.zip folder contains unaltered images, while the test.zip folder contains test images.
+
+Green images are easy to predict, yellow images are moderately difficult to predict, and red images are difficult to predict.
